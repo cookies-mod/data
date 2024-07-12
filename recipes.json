@@ -8756,17 +8756,6 @@
     "out": "SHEEP_GENERATOR_9"
   },
   {
-    "type": "forge",
-    "duration": 129600,
-    "ingredients": [
-      "REFINED_MINERAL:32",
-      "GLOSSY_GEMSTONE:32",
-      "ENCHANTED_GOLD_BLOCK:16",
-      "DIVAN_FRAGMENT:5"
-    ],
-    "out": "DIVAN_POWDER_COATING"
-  },
-  {
     "type": "craft",
     "ingredients": [
       "ENCHANTED_MUTTON:16",
@@ -8780,6 +8769,17 @@
       "ENCHANTED_MUTTON:16"
     ],
     "out": "SHEEP_GENERATOR_8"
+  },
+  {
+    "type": "forge",
+    "duration": 129600,
+    "ingredients": [
+      "REFINED_MINERAL:32",
+      "GLOSSY_GEMSTONE:32",
+      "ENCHANTED_GOLD_BLOCK:16",
+      "DIVAN_FRAGMENT:5"
+    ],
+    "out": "DIVAN_POWDER_COATING"
   },
   {
     "type": "craft",
@@ -9825,15 +9825,6 @@
     "out": "GOLD_BLOCK"
   },
   {
-    "type": "forge",
-    "duration": 86400,
-    "ingredients": [
-      "GLOSSY_GEMSTONE:32",
-      "FLAWLESS_AMETHYST_GEM:2"
-    ],
-    "out": "AMETHYST_GAUNTLET"
-  },
-  {
     "type": "craft",
     "ingredients": [
       "MAGMA_FISH_SILVER:16",
@@ -9843,6 +9834,15 @@
       "MAGMA_FISH_SILVER:16"
     ],
     "out": "MAGMA_FISH_GOLD"
+  },
+  {
+    "type": "forge",
+    "duration": 86400,
+    "ingredients": [
+      "GLOSSY_GEMSTONE:32",
+      "FLAWLESS_AMETHYST_GEM:2"
+    ],
+    "out": "AMETHYST_GAUNTLET"
   },
   {
     "type": "craft",
