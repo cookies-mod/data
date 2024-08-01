@@ -3,11 +3,11 @@
     "mod_version": ">=1.0.1-beta+4"
   },
   "mod_info": {
-    "version": "1.0.1-beta+6",
-    "beta_version": "1.0.1-beta+6"
+    "version": "1.0.1-beta+7",
+    "beta_version": "1.0.1-beta+7"
   },
   "files": {
-    "items": "7E3783D54B9004EF7CDA571F92DF576EE7353763D1B75DEFB8E2AF26CDD53445",
+    "items": "05ABE1CE20880E5EB25F94B721008CF024768AC36326CE29FFAF6B63A1671C85",
     "recipes": "075AE25C19BE23D759CEA8EBF36F5182DB1CBC5CA4E8ED0E81EDE65205BE5C5D",
     "constants": {
       "hotm": "91ABE4A4B89F0DBB9443194F167CAFABEB2E197855030DE00F7C9D542EE49CD1",
