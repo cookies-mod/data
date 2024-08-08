@@ -300,21 +300,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "GIANT_FRAGMENT_BOULDER",
-      "GIANT_FRAGMENT_BOULDER",
-      "GIANT_FRAGMENT_BOULDER",
-      "GIANT_FRAGMENT_BOULDER",
-      "NECRON_BLADE",
-      "GIANT_FRAGMENT_BOULDER",
-      "GIANT_FRAGMENT_BOULDER",
-      "GIANT_FRAGMENT_BOULDER",
-      "GIANT_FRAGMENT_BOULDER"
-    ],
-    "out": "ASTRAEA"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_WATER_LILY:16",
       "ENCHANTED_WATER_LILY:16",
       "ENCHANTED_WATER_LILY:16",
@@ -326,6 +311,21 @@
       "ENCHANTED_WATER_LILY:16"
     ],
     "out": "LEGEND_ROD"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "GIANT_FRAGMENT_BOULDER",
+      "GIANT_FRAGMENT_BOULDER",
+      "GIANT_FRAGMENT_BOULDER",
+      "GIANT_FRAGMENT_BOULDER",
+      "NECRON_BLADE",
+      "GIANT_FRAGMENT_BOULDER",
+      "GIANT_FRAGMENT_BOULDER",
+      "GIANT_FRAGMENT_BOULDER",
+      "GIANT_FRAGMENT_BOULDER"
+    ],
+    "out": "ASTRAEA"
   },
   {
     "type": "craft",
@@ -23637,6 +23637,14 @@
       "EGG"
     ],
     "out": "PUMPKIN_PIE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "CHUM:10",
+      "EMPTY_CHUM_BUCKET"
+    ],
+    "out": "FULL_CHUM_BUCKET"
   },
   {
     "type": "craft",
