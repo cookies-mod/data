@@ -549,6 +549,13 @@
   {
     "type": "craft",
     "ingredients": [
+      "WOOD"
+    ],
+    "out": "WOOD_BUTTON"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "CONDENSED_FERMENTO",
       "SQUASH_CHESTPLATE",
       "CONDENSED_FERMENTO",
@@ -571,13 +578,6 @@
       "FLAWED_OPAL_GEM:16"
     ],
     "out": "FINE_OPAL_GEM"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "WOOD"
-    ],
-    "out": "WOOD_BUTTON"
   },
   {
     "type": "craft",
@@ -1182,6 +1182,18 @@
   {
     "type": "craft",
     "ingredients": [
+      "ENCHANTED_IRON:64",
+      "TARANTULA_SILK:64",
+      "DIGESTED_MOSQUITO",
+      "TARANTULA_SILK:64",
+      "ENCHANTED_IRON:64",
+      "TARANTULA_SILK:64"
+    ],
+    "out": "MOSQUITO_BOW"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "ENCHANTED_OAK_LOG",
       "ENCHANTED_OAK_LOG",
       "ENCHANTED_OAK_LOG",
@@ -1193,18 +1205,6 @@
       "ENCHANTED_OAK_LOG"
     ],
     "out": "ENCHANTED_BOOKSHELF"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "ENCHANTED_IRON:64",
-      "TARANTULA_SILK:64",
-      "DIGESTED_MOSQUITO",
-      "TARANTULA_SILK:64",
-      "ENCHANTED_IRON:64",
-      "TARANTULA_SILK:64"
-    ],
-    "out": "MOSQUITO_BOW"
   },
   {
     "type": "craft",
@@ -1279,17 +1279,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "FINE_OPAL_GEM:16",
-      "FINE_OPAL_GEM:16",
-      "FINE_OPAL_GEM:16",
-      "FINE_OPAL_GEM:16",
-      "FINE_OPAL_GEM:16"
-    ],
-    "out": "FLAWLESS_OPAL_GEM"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_COAL:4",
       "ENCHANTED_COAL:4",
       "ENCHANTED_SULPHUR",
@@ -1297,6 +1286,17 @@
       "ENCHANTED_COAL:4"
     ],
     "out": "SULPHURIC_COAL:4"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "FINE_OPAL_GEM:16",
+      "FINE_OPAL_GEM:16",
+      "FINE_OPAL_GEM:16",
+      "FINE_OPAL_GEM:16",
+      "FINE_OPAL_GEM:16"
+    ],
+    "out": "FLAWLESS_OPAL_GEM"
   },
   {
     "type": "craft",
@@ -1692,21 +1692,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "GRAVEL:64",
-      "GRAVEL:64",
-      "GRAVEL:64",
-      "GRAVEL:64",
-      "GRAVEL_GENERATOR_3",
-      "GRAVEL:64",
-      "GRAVEL:64",
-      "GRAVEL:64",
-      "GRAVEL:64"
-    ],
-    "out": "GRAVEL_GENERATOR_4"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "WHEAT:64",
       "WHEAT:64",
       "WHEAT:64",
@@ -1718,6 +1703,21 @@
       "WHEAT:64"
     ],
     "out": "THEORETICAL_HOE_WHEAT_1"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "GRAVEL:64",
+      "GRAVEL:64",
+      "GRAVEL:64",
+      "GRAVEL:64",
+      "GRAVEL_GENERATOR_3",
+      "GRAVEL:64",
+      "GRAVEL:64",
+      "GRAVEL:64",
+      "GRAVEL:64"
+    ],
+    "out": "GRAVEL_GENERATOR_4"
   },
   {
     "type": "craft",
@@ -2138,19 +2138,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "BOOK",
-      "DIAMOND",
-      "OBSIDIAN",
-      "DIAMOND",
-      "OBSIDIAN",
-      "OBSIDIAN",
-      "OBSIDIAN"
-    ],
-    "out": "ENCHANTMENT_TABLE"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_FLINT:64",
       "ENCHANTED_FLINT:64",
       "ENCHANTED_FLINT:64",
@@ -2162,6 +2149,19 @@
       "ENCHANTED_FLINT:64"
     ],
     "out": "GRAVEL_GENERATOR_11"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "BOOK",
+      "DIAMOND",
+      "OBSIDIAN",
+      "DIAMOND",
+      "OBSIDIAN",
+      "OBSIDIAN",
+      "OBSIDIAN"
+    ],
+    "out": "ENCHANTMENT_TABLE"
   },
   {
     "type": "craft",
@@ -2203,6 +2203,17 @@
   {
     "type": "craft",
     "ingredients": [
+      "ENCHANTED_DIAMOND_BLOCK",
+      "ENCHANTED_DIAMOND_BLOCK",
+      "PERFECT_CHESTPLATE_7",
+      "ENCHANTED_DIAMOND_BLOCK",
+      "ENCHANTED_DIAMOND_BLOCK"
+    ],
+    "out": "PERFECT_CHESTPLATE_8"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "NETHER_STALK:5",
       "NETHER_STALK:5",
       "NETHER_STALK:5",
@@ -2214,17 +2225,6 @@
       "SOUL_SAND:5"
     ],
     "out": "NETHER_WART_ISLAND"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "ENCHANTED_DIAMOND_BLOCK",
-      "ENCHANTED_DIAMOND_BLOCK",
-      "PERFECT_CHESTPLATE_7",
-      "ENCHANTED_DIAMOND_BLOCK",
-      "ENCHANTED_DIAMOND_BLOCK"
-    ],
-    "out": "PERFECT_CHESTPLATE_8"
   },
   {
     "type": "craft",
@@ -2778,19 +2778,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "RED_MUSHROOM",
-      "RED_MUSHROOM",
-      "RED_MUSHROOM",
-      "RED_MUSHROOM",
-      "RED_MUSHROOM",
-      "RED_MUSHROOM",
-      "RED_MUSHROOM"
-    ],
-    "out": "MUSHROOM_LEGGINGS"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "SPONGE:32",
       "ENCHANTED_PUMPKIN",
       "SPONGE:32",
@@ -2802,6 +2789,19 @@
       "SPONGE:32"
     ],
     "out": "TRAINING_DUMMY"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "RED_MUSHROOM",
+      "RED_MUSHROOM",
+      "RED_MUSHROOM",
+      "RED_MUSHROOM",
+      "RED_MUSHROOM",
+      "RED_MUSHROOM",
+      "RED_MUSHROOM"
+    ],
+    "out": "MUSHROOM_LEGGINGS"
   },
   {
     "type": "craft",
@@ -3191,20 +3191,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "RAW_FISH",
-      "RAW_FISH",
-      "RAW_FISH",
-      "RAW_FISH",
-      "RAW_FISH",
-      "RAW_FISH",
-      "RAW_FISH",
-      "RAW_FISH"
-    ],
-    "out": "FISH_HAT"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_HAY_BLOCK:4",
       "ENCHANTED_HAY_BLOCK:4",
       "ENCHANTED_HAY_BLOCK:4",
@@ -3216,6 +3202,20 @@
       "ENCHANTED_HAY_BLOCK:4"
     ],
     "out": "MEDIUM_AGRONOMY_SACK"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "RAW_FISH",
+      "RAW_FISH",
+      "RAW_FISH",
+      "RAW_FISH",
+      "RAW_FISH",
+      "RAW_FISH",
+      "RAW_FISH",
+      "RAW_FISH"
+    ],
+    "out": "FISH_HAT"
   },
   {
     "type": "craft",
@@ -3339,6 +3339,18 @@
   {
     "type": "craft",
     "ingredients": [
+      "ENCHANTED_MAGMA_CREAM:64",
+      "ENCHANTED_MAGMA_CREAM:64",
+      "ENCHANTED_MAGMA_CREAM:64",
+      "MAGMA_NECKLACE",
+      "ENCHANTED_MAGMA_CREAM:64",
+      "CORRUPTED_NETHER_STAR:3"
+    ],
+    "out": "VANQUISHED_MAGMA_NECKLACE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "ENCHANTED_PORK:3",
       "ENCHANTED_PORK:3",
       "ENCHANTED_PORK:3",
@@ -3350,18 +3362,6 @@
       "ENCHANTED_PORK:3"
     ],
     "out": "PIG_GENERATOR_6"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "ENCHANTED_MAGMA_CREAM:64",
-      "ENCHANTED_MAGMA_CREAM:64",
-      "ENCHANTED_MAGMA_CREAM:64",
-      "MAGMA_NECKLACE",
-      "ENCHANTED_MAGMA_CREAM:64",
-      "CORRUPTED_NETHER_STAR:3"
-    ],
-    "out": "VANQUISHED_MAGMA_NECKLACE"
   },
   {
     "type": "craft",
@@ -4325,6 +4325,16 @@
     "out": "JERRY_TALISMAN_GOLDEN"
   },
   {
+    "type": "forge",
+    "duration": 16200,
+    "ingredients": [
+      "REFINED_MINERAL:16",
+      "MITHRIL_GAUNTLET",
+      "REFINED_TITANIUM"
+    ],
+    "out": "TITANIUM_GAUNTLET"
+  },
+  {
     "type": "craft",
     "ingredients": [
       "EMBER_FRAGMENT",
@@ -4337,16 +4347,6 @@
       "EMBER_FRAGMENT"
     ],
     "out": "EMBER_CHESTPLATE"
-  },
-  {
-    "type": "forge",
-    "duration": 16200,
-    "ingredients": [
-      "REFINED_MINERAL:16",
-      "MITHRIL_GAUNTLET",
-      "REFINED_TITANIUM"
-    ],
-    "out": "TITANIUM_GAUNTLET"
   },
   {
     "type": "craft",
@@ -4519,19 +4519,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "STICK",
-      "STICK",
-      "STICK",
-      "STICK",
-      "STICK",
-      "STEP",
-      "STICK"
-    ],
-    "out": "ARMOR_STAND"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "CLAY:10",
       "ENCHANTED_CLAY_BALL:2",
       "CLAY:10",
@@ -4542,6 +4529,19 @@
       "CLAY:10"
     ],
     "out": "CLAY_BRACELET"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "STICK",
+      "STICK",
+      "STICK",
+      "STICK",
+      "STICK",
+      "STEP",
+      "STICK"
+    ],
+    "out": "ARMOR_STAND"
   },
   {
     "type": "craft",
@@ -4771,21 +4771,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_CLAY_BALL:32",
-      "ENCHANTED_CLAY_BALL:32",
-      "ENCHANTED_CLAY_BALL:32",
-      "ENCHANTED_CLAY_BALL:32",
-      "CLAY_GENERATOR_9",
-      "ENCHANTED_CLAY_BALL:32",
-      "ENCHANTED_CLAY_BALL:32",
-      "ENCHANTED_CLAY_BALL:32",
-      "ENCHANTED_CLAY_BALL:32"
-    ],
-    "out": "CLAY_GENERATOR_10"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_RABBIT_HIDE:32",
       "ENCHANTED_RABBIT_HIDE:32",
       "ENCHANTED_RABBIT_HIDE:32",
@@ -4797,6 +4782,21 @@
       "ENCHANTED_RABBIT_HIDE:32"
     ],
     "out": "RABBIT_GENERATOR_10"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_CLAY_BALL:32",
+      "ENCHANTED_CLAY_BALL:32",
+      "ENCHANTED_CLAY_BALL:32",
+      "ENCHANTED_CLAY_BALL:32",
+      "CLAY_GENERATOR_9",
+      "ENCHANTED_CLAY_BALL:32",
+      "ENCHANTED_CLAY_BALL:32",
+      "ENCHANTED_CLAY_BALL:32",
+      "ENCHANTED_CLAY_BALL:32"
+    ],
+    "out": "CLAY_GENERATOR_10"
   },
   {
     "type": "craft",
@@ -4926,14 +4926,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "INK_SACK-4",
-      "INK_SACK-2"
-    ],
-    "out": "INK_SACK-6"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_RED_SAND:8",
       "ENCHANTED_RED_SAND:8",
       "ENCHANTED_RED_SAND:8",
@@ -4949,11 +4941,10 @@
   {
     "type": "craft",
     "ingredients": [
-      "INK_SACK",
-      "INK_SACK-15",
-      "INK_SACK-15"
+      "INK_SACK-4",
+      "INK_SACK-2"
     ],
-    "out": "INK_SACK-7"
+    "out": "INK_SACK-6"
   },
   {
     "type": "craft",
@@ -4969,6 +4960,15 @@
       "ENCHANTED_RED_SAND:4"
     ],
     "out": "RED_SAND_GENERATOR_5"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "INK_SACK",
+      "INK_SACK-15",
+      "INK_SACK-15"
+    ],
+    "out": "INK_SACK-7"
   },
   {
     "type": "craft",
@@ -5100,6 +5100,14 @@
   {
     "type": "craft",
     "ingredients": [
+      "INK_SACK-4",
+      "INK_SACK-1"
+    ],
+    "out": "INK_SACK-5"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "CATALYST",
       "CATALYST",
       "CATALYST",
@@ -5111,14 +5119,6 @@
       "CATALYST"
     ],
     "out": "HYPER_CATALYST:8"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "INK_SACK-4",
-      "INK_SACK-1"
-    ],
-    "out": "INK_SACK-5"
   },
   {
     "type": "craft",
@@ -5160,6 +5160,16 @@
     "out": "SORROW_CHESTPLATE"
   },
   {
+    "type": "forge",
+    "duration": 32400,
+    "ingredients": [
+      "GLOSSY_GEMSTONE:32",
+      "REFINED_MITHRIL",
+      "REFINED_DIAMOND:2"
+    ],
+    "out": "GLEAMING_CRYSTAL"
+  },
+  {
     "type": "craft",
     "ingredients": [
       "EGG:16",
@@ -5173,16 +5183,6 @@
       "EGG:16"
     ],
     "out": "ENCHANTED_EGG"
-  },
-  {
-    "type": "forge",
-    "duration": 32400,
-    "ingredients": [
-      "GLOSSY_GEMSTONE:32",
-      "REFINED_MITHRIL",
-      "REFINED_DIAMOND:2"
-    ],
-    "out": "GLEAMING_CRYSTAL"
   },
   {
     "type": "craft",
@@ -5388,21 +5388,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_PUMPKIN:2",
-      "ENCHANTED_PUMPKIN:2",
-      "ENCHANTED_PUMPKIN:2",
-      "ENCHANTED_PUMPKIN:2",
-      "PUMPKIN_GENERATOR_5",
-      "ENCHANTED_PUMPKIN:2",
-      "ENCHANTED_PUMPKIN:2",
-      "ENCHANTED_PUMPKIN:2",
-      "ENCHANTED_PUMPKIN:2"
-    ],
-    "out": "PUMPKIN_GENERATOR_6"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_OBSIDIAN:64",
       "ENCHANTED_OBSIDIAN:64",
       "ENCHANTED_OBSIDIAN:64",
@@ -5414,6 +5399,21 @@
       "ENCHANTED_OBSIDIAN:64"
     ],
     "out": "TREECAPITATOR_AXE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_PUMPKIN:2",
+      "ENCHANTED_PUMPKIN:2",
+      "ENCHANTED_PUMPKIN:2",
+      "ENCHANTED_PUMPKIN:2",
+      "PUMPKIN_GENERATOR_5",
+      "ENCHANTED_PUMPKIN:2",
+      "ENCHANTED_PUMPKIN:2",
+      "ENCHANTED_PUMPKIN:2",
+      "ENCHANTED_PUMPKIN:2"
+    ],
+    "out": "PUMPKIN_GENERATOR_6"
   },
   {
     "type": "craft",
@@ -6210,6 +6210,16 @@
   {
     "type": "craft",
     "ingredients": [
+      "WOOD",
+      "WOOD",
+      "STICK",
+      "STICK"
+    ],
+    "out": "WOOD_HOE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "PRISMARINE_CRYSTALS",
       "PRISMARINE_CRYSTALS",
       "PRISMARINE_CRYSTALS",
@@ -6217,16 +6227,6 @@
       "PRISMARINE_CRYSTALS"
     ],
     "out": "SEA_LANTERN_HAT"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "WOOD",
-      "WOOD",
-      "STICK",
-      "STICK"
-    ],
-    "out": "WOOD_HOE"
   },
   {
     "type": "craft",
@@ -6442,14 +6442,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "WOOL-1",
-      "WOOL-1"
-    ],
-    "out": "CARPET-1:3"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_HARD_STONE:20",
       "ENCHANTED_HARD_STONE:20",
       "ENCHANTED_HARD_STONE:20",
@@ -6460,6 +6452,14 @@
       "ENCHANTED_HARD_STONE:20"
     ],
     "out": "FLAME_BREAKER_CHESTPLATE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "WOOL-1",
+      "WOOL-1"
+    ],
+    "out": "CARPET-1:3"
   },
   {
     "type": "craft",
@@ -7002,21 +7002,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "AGARICUS_CHUM_CAP",
-      "AGARICUS_CHUM_CAP",
-      "AGARICUS_CHUM_CAP",
-      "AGARICUS_CHUM_CAP",
-      "EMPTY_CHUM_BUCKET",
-      "AGARICUS_CHUM_CAP",
-      "AGARICUS_CHUM_CAP",
-      "AGARICUS_CHUM_CAP",
-      "AGARICUS_CHUM_CAP"
-    ],
-    "out": "EMPTY_CHUMCAP_BUCKET"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "STRING",
       "STRING",
       "STRING",
@@ -7028,6 +7013,21 @@
       "STRING"
     ],
     "out": "WEB"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "AGARICUS_CHUM_CAP",
+      "AGARICUS_CHUM_CAP",
+      "AGARICUS_CHUM_CAP",
+      "AGARICUS_CHUM_CAP",
+      "EMPTY_CHUM_BUCKET",
+      "AGARICUS_CHUM_CAP",
+      "AGARICUS_CHUM_CAP",
+      "AGARICUS_CHUM_CAP",
+      "AGARICUS_CHUM_CAP"
+    ],
+    "out": "EMPTY_CHUMCAP_BUCKET"
   },
   {
     "type": "craft",
@@ -7142,21 +7142,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_CLAY_BALL:8",
-      "ENCHANTED_CLAY_BALL:8",
-      "ENCHANTED_CLAY_BALL:8",
-      "ENCHANTED_CLAY_BALL:8",
-      "CLAY_GENERATOR_7",
-      "ENCHANTED_CLAY_BALL:8",
-      "ENCHANTED_CLAY_BALL:8",
-      "ENCHANTED_CLAY_BALL:8",
-      "ENCHANTED_CLAY_BALL:8"
-    ],
-    "out": "CLAY_GENERATOR_8"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "NETHER_STALK_DISTILLATE",
       "INFERNO_FUEL_BLOCK",
       "NETHER_STALK_DISTILLATE",
@@ -7168,6 +7153,21 @@
       "NETHER_STALK_DISTILLATE"
     ],
     "out": "INFERNO_HEAVY_NETHER_STALK"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_CLAY_BALL:8",
+      "ENCHANTED_CLAY_BALL:8",
+      "ENCHANTED_CLAY_BALL:8",
+      "ENCHANTED_CLAY_BALL:8",
+      "CLAY_GENERATOR_7",
+      "ENCHANTED_CLAY_BALL:8",
+      "ENCHANTED_CLAY_BALL:8",
+      "ENCHANTED_CLAY_BALL:8",
+      "ENCHANTED_CLAY_BALL:8"
+    ],
+    "out": "CLAY_GENERATOR_8"
   },
   {
     "type": "craft",
@@ -7187,6 +7187,17 @@
   {
     "type": "craft",
     "ingredients": [
+      "OBSIDIAN:32",
+      "OBSIDIAN:32",
+      "OBSIDIAN:32",
+      "OBSIDIAN:32",
+      "OBSIDIAN:32"
+    ],
+    "out": "ENCHANTED_OBSIDIAN"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "CLAY_BALL:20",
       "CLAY_BALL:20",
       "CLAY_BALL:20",
@@ -7198,17 +7209,6 @@
       "CLAY_BALL:20"
     ],
     "out": "CLAY_GENERATOR_2"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "OBSIDIAN:32",
-      "OBSIDIAN:32",
-      "OBSIDIAN:32",
-      "OBSIDIAN:32",
-      "OBSIDIAN:32"
-    ],
-    "out": "ENCHANTED_OBSIDIAN"
   },
   {
     "type": "craft",
@@ -7833,21 +7833,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_COBBLESTONE:4",
-      "ENCHANTED_COBBLESTONE:4",
-      "ENCHANTED_COBBLESTONE:4",
-      "ENCHANTED_COBBLESTONE:4",
-      "COBBLESTONE_GENERATOR_6",
-      "ENCHANTED_COBBLESTONE:4",
-      "ENCHANTED_COBBLESTONE:4",
-      "ENCHANTED_COBBLESTONE:4",
-      "ENCHANTED_COBBLESTONE:4"
-    ],
-    "out": "COBBLESTONE_GENERATOR_7"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "SHARK_FIN",
       "SHARK_FIN",
       "SHARK_FIN",
@@ -7859,6 +7844,21 @@
       "SHARK_FIN"
     ],
     "out": "RAGGEDY_SHARK_TOOTH_NECKLACE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_COBBLESTONE:4",
+      "ENCHANTED_COBBLESTONE:4",
+      "ENCHANTED_COBBLESTONE:4",
+      "ENCHANTED_COBBLESTONE:4",
+      "COBBLESTONE_GENERATOR_6",
+      "ENCHANTED_COBBLESTONE:4",
+      "ENCHANTED_COBBLESTONE:4",
+      "ENCHANTED_COBBLESTONE:4",
+      "ENCHANTED_COBBLESTONE:4"
+    ],
+    "out": "COBBLESTONE_GENERATOR_7"
   },
   {
     "type": "craft",
@@ -8756,6 +8756,17 @@
     "out": "SHEEP_GENERATOR_9"
   },
   {
+    "type": "forge",
+    "duration": 129600,
+    "ingredients": [
+      "REFINED_MINERAL:32",
+      "GLOSSY_GEMSTONE:32",
+      "ENCHANTED_GOLD_BLOCK:16",
+      "DIVAN_FRAGMENT:5"
+    ],
+    "out": "DIVAN_POWDER_COATING"
+  },
+  {
     "type": "craft",
     "ingredients": [
       "ENCHANTED_MUTTON:16",
@@ -8769,17 +8780,6 @@
       "ENCHANTED_MUTTON:16"
     ],
     "out": "SHEEP_GENERATOR_8"
-  },
-  {
-    "type": "forge",
-    "duration": 129600,
-    "ingredients": [
-      "REFINED_MINERAL:32",
-      "GLOSSY_GEMSTONE:32",
-      "ENCHANTED_GOLD_BLOCK:16",
-      "DIVAN_FRAGMENT:5"
-    ],
-    "out": "DIVAN_POWDER_COATING"
   },
   {
     "type": "craft",
@@ -8955,6 +8955,15 @@
   {
     "type": "craft",
     "ingredients": [
+      "NETHER_BRICK",
+      "NETHER_BRICK",
+      "NETHER_BRICK"
+    ],
+    "out": "STEP-6:6"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "INK_SACK:16",
       "INK_SACK:16",
       "INK_SACK:16",
@@ -8962,15 +8971,6 @@
       "INK_SACK:16"
     ],
     "out": "ENCHANTED_INK_SACK"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "NETHER_BRICK",
-      "NETHER_BRICK",
-      "NETHER_BRICK"
-    ],
-    "out": "STEP-6:6"
   },
   {
     "type": "craft",
@@ -8990,21 +8990,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_COAL",
-      "ENCHANTED_COAL",
-      "ENCHANTED_COAL",
-      "ENCHANTED_COAL",
-      "COAL_GENERATOR_4",
-      "ENCHANTED_COAL",
-      "ENCHANTED_COAL",
-      "ENCHANTED_COAL",
-      "ENCHANTED_COAL"
-    ],
-    "out": "COAL_GENERATOR_5"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "NULL_ATOM:4",
       "NULL_OVOID:8",
       "NULL_ATOM:4",
@@ -9016,6 +9001,21 @@
       "NULL_ATOM:4"
     ],
     "out": "SINSEEKER_SCYTHE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_COAL",
+      "ENCHANTED_COAL",
+      "ENCHANTED_COAL",
+      "ENCHANTED_COAL",
+      "COAL_GENERATOR_4",
+      "ENCHANTED_COAL",
+      "ENCHANTED_COAL",
+      "ENCHANTED_COAL",
+      "ENCHANTED_COAL"
+    ],
+    "out": "COAL_GENERATOR_5"
   },
   {
     "type": "craft",
@@ -10165,6 +10165,13 @@
   {
     "type": "craft",
     "ingredients": [
+      "LOG-1"
+    ],
+    "out": "WOOD-1:4"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "IRON_INGOT",
       "IRON_INGOT",
       "IRON_INGOT",
@@ -10172,13 +10179,6 @@
       "STICK"
     ],
     "out": "IRON_PICKAXE"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "LOG-1"
-    ],
-    "out": "WOOD-1:4"
   },
   {
     "type": "craft",
@@ -10274,6 +10274,14 @@
   {
     "type": "craft",
     "ingredients": [
+      "SMOOTH_BRICK",
+      "VINE"
+    ],
+    "out": "SMOOTH_BRICK-1"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "ENCHANTED_GLOWSTONE",
       "ENCHANTED_GLOWSTONE",
       "ENCHANTED_GLOWSTONE",
@@ -10285,14 +10293,6 @@
       "ENCHANTED_GLOWSTONE"
     ],
     "out": "GLOWSTONE_GENERATOR_10"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "SMOOTH_BRICK",
-      "VINE"
-    ],
-    "out": "SMOOTH_BRICK-1"
   },
   {
     "type": "craft",
@@ -10368,16 +10368,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "IRON_INGOT",
-      "IRON_INGOT",
-      "IRON_INGOT",
-      "IRON_INGOT"
-    ],
-    "out": "IRON_TRAPDOOR"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_MUTTON:16",
       "ENCHANTED_STRING:16",
       "ENCHANTED_MUTTON:16",
@@ -10389,6 +10379,16 @@
       "ENCHANTED_MUTTON:16"
     ],
     "out": "LARGE_ENCHANTED_HUSBANDRY_SACK"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "IRON_INGOT",
+      "IRON_INGOT",
+      "IRON_INGOT",
+      "IRON_INGOT"
+    ],
+    "out": "IRON_TRAPDOOR"
   },
   {
     "type": "craft",
@@ -11858,17 +11858,6 @@
     "out": "TANK_WITHER_CHESTPLATE"
   },
   {
-    "type": "forge",
-    "duration": 64800,
-    "ingredients": [
-      "REINFORCED_CHISEL",
-      "BEJEWELED_HANDLE",
-      "GLACITE_AMALGAMATION:8",
-      "MITHRIL_PLATE"
-    ],
-    "out": "GLACITE_CHISEL"
-  },
-  {
     "type": "craft",
     "ingredients": [
       "ENCHANTED_NETHER_STALK:16",
@@ -11882,6 +11871,17 @@
       "ENCHANTED_NETHER_STALK:16"
     ],
     "out": "NETHER_WARTS_GENERATOR_9"
+  },
+  {
+    "type": "forge",
+    "duration": 64800,
+    "ingredients": [
+      "REINFORCED_CHISEL",
+      "BEJEWELED_HANDLE",
+      "GLACITE_AMALGAMATION:8",
+      "MITHRIL_PLATE"
+    ],
+    "out": "GLACITE_CHISEL"
   },
   {
     "type": "craft",
@@ -12629,6 +12629,16 @@
   {
     "type": "craft",
     "ingredients": [
+      "KUUDRA_TIER_KEY",
+      "KUUDRA_TIER_KEY",
+      "KUUDRA_TIER_KEY",
+      "KUUDRA_TIER_KEY"
+    ],
+    "out": "KUUDRA_HOT_TIER_KEY"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "FINE_SAPPHIRE_GEM:16",
       "FINE_SAPPHIRE_GEM:16",
       "FINE_SAPPHIRE_GEM:16",
@@ -12636,16 +12646,6 @@
       "FINE_SAPPHIRE_GEM:16"
     ],
     "out": "FLAWLESS_SAPPHIRE_GEM"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "KUUDRA_TIER_KEY",
-      "KUUDRA_TIER_KEY",
-      "KUUDRA_TIER_KEY",
-      "KUUDRA_TIER_KEY"
-    ],
-    "out": "KUUDRA_HOT_TIER_KEY"
   },
   {
     "type": "craft",
@@ -12941,16 +12941,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_PAPER",
-      "ENCHANTED_PAPER",
-      "ENCHANTED_PAPER",
-      "STUFFED_CHILI_PEPPER"
-    ],
-    "out": "JALAPENO_BOOK"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_MELON_BLOCK:5",
       "ENCHANTED_MELON_BLOCK:5",
       "ENCHANTED_MELON_BLOCK:5",
@@ -12958,6 +12948,16 @@
       "ENCHANTED_MELON_BLOCK:5"
     ],
     "out": "MELON_HELMET"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_PAPER",
+      "ENCHANTED_PAPER",
+      "ENCHANTED_PAPER",
+      "STUFFED_CHILI_PEPPER"
+    ],
+    "out": "JALAPENO_BOOK"
   },
   {
     "type": "craft",
@@ -13124,21 +13124,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "PRISMARINE_SHARD",
-      "PRISMARINE_SHARD",
-      "PRISMARINE_SHARD",
-      "PRISMARINE_SHARD",
-      "INK_SACK",
-      "PRISMARINE_SHARD",
-      "PRISMARINE_SHARD",
-      "PRISMARINE_SHARD",
-      "PRISMARINE_SHARD"
-    ],
-    "out": "PRISMARINE-2"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "LIVID_FRAGMENT",
       "LIVID_FRAGMENT",
       "LIVID_FRAGMENT",
@@ -13150,6 +13135,21 @@
       "LIVID_FRAGMENT"
     ],
     "out": "STARRED_SHADOW_ASSASSIN_CLOAK"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "PRISMARINE_SHARD",
+      "PRISMARINE_SHARD",
+      "PRISMARINE_SHARD",
+      "PRISMARINE_SHARD",
+      "INK_SACK",
+      "PRISMARINE_SHARD",
+      "PRISMARINE_SHARD",
+      "PRISMARINE_SHARD",
+      "PRISMARINE_SHARD"
+    ],
+    "out": "PRISMARINE-2"
   },
   {
     "type": "craft",
@@ -13757,21 +13757,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_BROWN_MUSHROOM:8",
-      "ENCHANTED_BROWN_MUSHROOM:8",
-      "ENCHANTED_BROWN_MUSHROOM:8",
-      "ENCHANTED_BROWN_MUSHROOM:8",
-      "ENCHANTED_EGG",
-      "ENCHANTED_BROWN_MUSHROOM:8",
-      "ENCHANTED_BROWN_MUSHROOM:8",
-      "ENCHANTED_BROWN_MUSHROOM:8",
-      "ENCHANTED_BROWN_MUSHROOM:8"
-    ],
-    "out": "BAT;2"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "PORK:64",
       "PORK:64",
       "PORK:64",
@@ -13791,13 +13776,13 @@
       "ENCHANTED_BROWN_MUSHROOM:8",
       "ENCHANTED_BROWN_MUSHROOM:8",
       "ENCHANTED_BROWN_MUSHROOM:8",
-      "SUPER_EGG",
+      "ENCHANTED_EGG",
       "ENCHANTED_BROWN_MUSHROOM:8",
       "ENCHANTED_BROWN_MUSHROOM:8",
       "ENCHANTED_BROWN_MUSHROOM:8",
       "ENCHANTED_BROWN_MUSHROOM:8"
     ],
-    "out": "BAT;3"
+    "out": "BAT;2"
   },
   {
     "type": "craft",
@@ -13827,7 +13812,7 @@
       "ENCHANTED_BROWN_MUSHROOM:8",
       "ENCHANTED_BROWN_MUSHROOM:8"
     ],
-    "out": "BAT;4"
+    "out": "BAT;3"
   },
   {
     "type": "craft",
@@ -13843,6 +13828,21 @@
       "PORK:64"
     ],
     "out": "PIG;4"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_BROWN_MUSHROOM:8",
+      "ENCHANTED_BROWN_MUSHROOM:8",
+      "ENCHANTED_BROWN_MUSHROOM:8",
+      "ENCHANTED_BROWN_MUSHROOM:8",
+      "SUPER_EGG",
+      "ENCHANTED_BROWN_MUSHROOM:8",
+      "ENCHANTED_BROWN_MUSHROOM:8",
+      "ENCHANTED_BROWN_MUSHROOM:8",
+      "ENCHANTED_BROWN_MUSHROOM:8"
+    ],
+    "out": "BAT;4"
   },
   {
     "type": "craft",
@@ -14936,21 +14936,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_MYCELIUM_CUBE",
-      "ENCHANTED_MYCELIUM_CUBE",
-      "ENCHANTED_MYCELIUM_CUBE",
-      "LEATHER_CLOTH:6",
-      "LEATHER_CLOTH:6",
-      "LEATHER_CLOTH:6",
-      "LEATHER_CLOTH:6",
-      "LEATHER_CLOTH:6",
-      "LEATHER_CLOTH:6"
-    ],
-    "out": "GAUNTLET_OF_CONTAGION"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "NULL_OVOID:4",
       "ENCHANTED_GUNPOWDER:64",
       "NULL_OVOID:4",
@@ -14962,6 +14947,21 @@
       "NULL_OVOID:4"
     ],
     "out": "GLOOMLOCK_GRIMOIRE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_MYCELIUM_CUBE",
+      "ENCHANTED_MYCELIUM_CUBE",
+      "ENCHANTED_MYCELIUM_CUBE",
+      "LEATHER_CLOTH:6",
+      "LEATHER_CLOTH:6",
+      "LEATHER_CLOTH:6",
+      "LEATHER_CLOTH:6",
+      "LEATHER_CLOTH:6",
+      "LEATHER_CLOTH:6"
+    ],
+    "out": "GAUNTLET_OF_CONTAGION"
   },
   {
     "type": "craft",
@@ -15287,6 +15287,17 @@
   {
     "type": "craft",
     "ingredients": [
+      "ENCHANTED_GOLD_BLOCK:6",
+      "ENCHANTED_GOLD_BLOCK:6",
+      "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
+      "ENCHANTED_GOLD_BLOCK:6",
+      "ZOG_ANVIL"
+    ],
+    "out": "ALL_SKILLS_SUPER_BOOST"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "ENCHANTED_REDSTONE:32",
       "ENCHANTED_REDSTONE:32",
       "ENCHANTED_REDSTONE:32",
@@ -15298,17 +15309,6 @@
       "ENCHANTED_REDSTONE:32"
     ],
     "out": "REDSTONE_GENERATOR_8"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "ENCHANTED_GOLD_BLOCK:6",
-      "ENCHANTED_GOLD_BLOCK:6",
-      "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
-      "ENCHANTED_GOLD_BLOCK:6",
-      "ZOG_ANVIL"
-    ],
-    "out": "ALL_SKILLS_SUPER_BOOST"
   },
   {
     "type": "craft",
@@ -15776,16 +15776,6 @@
     "out": "ENCHANTED_UMBER"
   },
   {
-    "type": "craft",
-    "ingredients": [
-      "GLOWSTONE_DUST",
-      "GLOWSTONE_DUST",
-      "GLOWSTONE_DUST",
-      "GLOWSTONE_DUST"
-    ],
-    "out": "GLOWSTONE"
-  },
-  {
     "type": "forge",
     "duration": 30,
     "ingredients": [
@@ -15794,6 +15784,16 @@
       "FLAWLESS_RUBY_GEM"
     ],
     "out": "SECRET_RAILROAD_PASS"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "GLOWSTONE_DUST",
+      "GLOWSTONE_DUST",
+      "GLOWSTONE_DUST",
+      "GLOWSTONE_DUST"
+    ],
+    "out": "GLOWSTONE"
   },
   {
     "type": "craft",
@@ -16212,6 +16212,21 @@
   {
     "type": "craft",
     "ingredients": [
+      "ENCHANTED_SPRUCE_LOG:64",
+      "ENCHANTED_SPRUCE_LOG:64",
+      "ENCHANTED_SPRUCE_LOG:64",
+      "ENCHANTED_SPRUCE_LOG:64",
+      "SUPER_EGG",
+      "ENCHANTED_SPRUCE_LOG:64",
+      "ENCHANTED_SPRUCE_LOG:64",
+      "ENCHANTED_SPRUCE_LOG:64",
+      "ENCHANTED_SPRUCE_LOG:64"
+    ],
+    "out": "WOLF;3"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "HEMOGLASS",
       "HEMOGLASS",
       "HEMOGLASS",
@@ -16237,7 +16252,7 @@
       "ENCHANTED_SPRUCE_LOG:64",
       "ENCHANTED_SPRUCE_LOG:64"
     ],
-    "out": "WOLF;3"
+    "out": "WOLF;4"
   },
   {
     "type": "craft",
@@ -16261,13 +16276,13 @@
       "ENCHANTED_SPRUCE_LOG:64",
       "ENCHANTED_SPRUCE_LOG:64",
       "ENCHANTED_SPRUCE_LOG:64",
-      "SUPER_EGG",
+      "ENCHANTED_EGG",
       "ENCHANTED_SPRUCE_LOG:64",
       "ENCHANTED_SPRUCE_LOG:64",
       "ENCHANTED_SPRUCE_LOG:64",
       "ENCHANTED_SPRUCE_LOG:64"
     ],
-    "out": "WOLF;4"
+    "out": "WOLF;1"
   },
   {
     "type": "craft",
@@ -16297,7 +16312,7 @@
       "ENCHANTED_SPRUCE_LOG:64",
       "ENCHANTED_SPRUCE_LOG:64"
     ],
-    "out": "WOLF;1"
+    "out": "WOLF;2"
   },
   {
     "type": "craft",
@@ -16313,21 +16328,6 @@
       "HEMOGLASS:8"
     ],
     "out": "VAMPIRE_GENERATOR_8"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "ENCHANTED_SPRUCE_LOG:64",
-      "ENCHANTED_SPRUCE_LOG:64",
-      "ENCHANTED_SPRUCE_LOG:64",
-      "ENCHANTED_SPRUCE_LOG:64",
-      "ENCHANTED_EGG",
-      "ENCHANTED_SPRUCE_LOG:64",
-      "ENCHANTED_SPRUCE_LOG:64",
-      "ENCHANTED_SPRUCE_LOG:64",
-      "ENCHANTED_SPRUCE_LOG:64"
-    ],
-    "out": "WOLF;2"
   },
   {
     "type": "craft",
@@ -16413,21 +16413,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "AGARIMOO_TONGUE:12",
-      "AGARIMOO_TONGUE:12",
-      "AGARIMOO_TONGUE:12",
-      "AGARIMOO_TONGUE:12",
-      "AGARIMOO_TALISMAN",
-      "AGARIMOO_TONGUE:12",
-      "AGARIMOO_TONGUE:12",
-      "AGARIMOO_TONGUE:12",
-      "AGARIMOO_TONGUE:12"
-    ],
-    "out": "AGARIMOO_RING"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "RABBIT_HIDE:64",
       "RABBIT_HIDE:64",
       "RABBIT_HIDE:64",
@@ -16439,6 +16424,21 @@
       "RABBIT_HIDE:64"
     ],
     "out": "ENCHANTED_RABBIT_HIDE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "AGARIMOO_TONGUE:12",
+      "AGARIMOO_TONGUE:12",
+      "AGARIMOO_TONGUE:12",
+      "AGARIMOO_TONGUE:12",
+      "AGARIMOO_TALISMAN",
+      "AGARIMOO_TONGUE:12",
+      "AGARIMOO_TONGUE:12",
+      "AGARIMOO_TONGUE:12",
+      "AGARIMOO_TONGUE:12"
+    ],
+    "out": "AGARIMOO_RING"
   },
   {
     "type": "craft",
@@ -16711,6 +16711,13 @@
   {
     "type": "craft",
     "ingredients": [
+      "SLIME_BLOCK"
+    ],
+    "out": "SLIME_BALL"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "STICK",
       "WOOD-4",
       "STICK",
@@ -16719,13 +16726,6 @@
       "STICK"
     ],
     "out": "ACACIA_FENCE_GATE"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "SLIME_BLOCK"
-    ],
-    "out": "SLIME_BALL"
   },
   {
     "type": "craft",
@@ -16920,6 +16920,15 @@
   {
     "type": "craft",
     "ingredients": [
+      "ENCHANTED_SHARK_FIN",
+      "SPONGE_LEGGINGS",
+      "ENCHANTED_SHARK_FIN"
+    ],
+    "out": "SHARK_SCALE_LEGGINGS"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "ENCHANTED_OBSIDIAN:24",
       "ENCHANTED_OBSIDIAN:24",
       "ENCHANTED_OBSIDIAN:24",
@@ -16931,15 +16940,6 @@
       "ENCHANTED_OBSIDIAN:24"
     ],
     "out": "OBSIDIAN_TABLET"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "ENCHANTED_SHARK_FIN",
-      "SPONGE_LEGGINGS",
-      "ENCHANTED_SHARK_FIN"
-    ],
-    "out": "SHARK_SCALE_LEGGINGS"
   },
   {
     "type": "craft",
@@ -17073,6 +17073,16 @@
   {
     "type": "craft",
     "ingredients": [
+      "BLAZE_ROD",
+      "COBBLESTONE",
+      "COBBLESTONE",
+      "COBBLESTONE"
+    ],
+    "out": "BREWING_STAND_ITEM"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "ENCHANTED_ENDER_PEARL:16",
       "ENCHANTED_ENDER_PEARL:16",
       "ENCHANTED_ENDER_PEARL:16",
@@ -17080,16 +17090,6 @@
       "ENCHANTED_ENDER_PEARL:16"
     ],
     "out": "ABSOLUTE_ENDER_PEARL"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "BLAZE_ROD",
-      "COBBLESTONE",
-      "COBBLESTONE",
-      "COBBLESTONE"
-    ],
-    "out": "BREWING_STAND_ITEM"
   },
   {
     "type": "craft",
@@ -17674,21 +17674,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "LIVID_FRAGMENT",
-      "LIVID_FRAGMENT",
-      "LIVID_FRAGMENT",
-      "LIVID_FRAGMENT",
-      "SHADOW_ASSASSIN_BOOTS",
-      "LIVID_FRAGMENT",
-      "LIVID_FRAGMENT",
-      "LIVID_FRAGMENT",
-      "LIVID_FRAGMENT"
-    ],
-    "out": "STARRED_SHADOW_ASSASSIN_BOOTS"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "MOLTEN_POWDER:2",
       "ENCHANTED_PACKED_ICE",
       "MOLTEN_POWDER:2",
@@ -17700,6 +17685,21 @@
       "MOLTEN_POWDER:2"
     ],
     "out": "UPGRADE_STONE_FROST"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "LIVID_FRAGMENT",
+      "LIVID_FRAGMENT",
+      "LIVID_FRAGMENT",
+      "LIVID_FRAGMENT",
+      "SHADOW_ASSASSIN_BOOTS",
+      "LIVID_FRAGMENT",
+      "LIVID_FRAGMENT",
+      "LIVID_FRAGMENT",
+      "LIVID_FRAGMENT"
+    ],
+    "out": "STARRED_SHADOW_ASSASSIN_BOOTS"
   },
   {
     "type": "craft",
@@ -19084,21 +19084,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_QUARTZ:2",
-      "ENCHANTED_QUARTZ:2",
-      "ENCHANTED_QUARTZ:2",
-      "ENCHANTED_QUARTZ:2",
-      "ENCHANTED_REDSTONE:2",
-      "ENCHANTED_QUARTZ:2",
-      "ENCHANTED_QUARTZ:2",
-      "ENCHANTED_QUARTZ:2",
-      "ENCHANTED_QUARTZ:2"
-    ],
-    "out": "MINION_EXPANDER"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "WOLF_TOOTH:2",
       "WOLF_TOOTH:2",
       "WOLF_TOOTH:2",
@@ -19110,6 +19095,21 @@
       "WOLF_TOOTH:2"
     ],
     "out": "RADIANT_POWER_ORB"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_QUARTZ:2",
+      "ENCHANTED_QUARTZ:2",
+      "ENCHANTED_QUARTZ:2",
+      "ENCHANTED_QUARTZ:2",
+      "ENCHANTED_REDSTONE:2",
+      "ENCHANTED_QUARTZ:2",
+      "ENCHANTED_QUARTZ:2",
+      "ENCHANTED_QUARTZ:2",
+      "ENCHANTED_QUARTZ:2"
+    ],
+    "out": "MINION_EXPANDER"
   },
   {
     "type": "craft",
@@ -19807,21 +19807,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "MAGMA_CREAM:20",
-      "MAGMA_CREAM:20",
-      "MAGMA_CREAM:20",
-      "MAGMA_CREAM:20",
-      "MAGMA_CUBE_GENERATOR_1",
-      "MAGMA_CREAM:20",
-      "MAGMA_CREAM:20",
-      "MAGMA_CREAM:20",
-      "MAGMA_CREAM:20"
-    ],
-    "out": "MAGMA_CUBE_GENERATOR_2"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "Z:64",
       "Z:64",
       "Z:64",
@@ -19833,6 +19818,21 @@
       "Z:64"
     ],
     "out": "SYNTHESIZER_V3"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "MAGMA_CREAM:20",
+      "MAGMA_CREAM:20",
+      "MAGMA_CREAM:20",
+      "MAGMA_CREAM:20",
+      "MAGMA_CUBE_GENERATOR_1",
+      "MAGMA_CREAM:20",
+      "MAGMA_CREAM:20",
+      "MAGMA_CREAM:20",
+      "MAGMA_CREAM:20"
+    ],
+    "out": "MAGMA_CUBE_GENERATOR_2"
   },
   {
     "type": "craft",
@@ -20061,21 +20061,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "SAND:20",
-      "SAND:20",
-      "SAND:20",
-      "SAND:20",
-      "SAND_GENERATOR_1",
-      "SAND:20",
-      "SAND:20",
-      "SAND:20",
-      "SAND:20"
-    ],
-    "out": "SAND_GENERATOR_2"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "JACOBS_TICKET:16",
       "ENCHANTED_SUGAR:64",
       "JACOBS_TICKET:16",
@@ -20091,17 +20076,17 @@
   {
     "type": "craft",
     "ingredients": [
-      "SAND:10",
-      "SAND:10",
-      "SAND:10",
-      "SAND:10",
-      "WOOD_SPADE",
-      "SAND:10",
-      "SAND:10",
-      "SAND:10",
-      "SAND:10"
+      "SAND:20",
+      "SAND:20",
+      "SAND:20",
+      "SAND:20",
+      "SAND_GENERATOR_1",
+      "SAND:20",
+      "SAND:20",
+      "SAND:20",
+      "SAND:20"
     ],
-    "out": "SAND_GENERATOR_1"
+    "out": "SAND_GENERATOR_2"
   },
   {
     "type": "craft",
@@ -20117,6 +20102,21 @@
       "JACOBS_TICKET:64"
     ],
     "out": "THEORETICAL_HOE_CANE_3"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "SAND:10",
+      "SAND:10",
+      "SAND:10",
+      "SAND:10",
+      "WOOD_SPADE",
+      "SAND:10",
+      "SAND:10",
+      "SAND:10",
+      "SAND:10"
+    ],
+    "out": "SAND_GENERATOR_1"
   },
   {
     "type": "craft",
@@ -20256,21 +20256,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "MELON_BLOCK:16",
-      "MELON_BLOCK:16",
-      "MELON_BLOCK:16",
-      "MELON_BLOCK:16",
-      "MELON_GENERATOR_2",
-      "MELON_BLOCK:16",
-      "MELON_BLOCK:16",
-      "MELON_BLOCK:16",
-      "MELON_BLOCK:16"
-    ],
-    "out": "MELON_GENERATOR_3"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_SAND:16",
       "ENCHANTED_SAND:16",
       "ENCHANTED_SAND:16",
@@ -20282,6 +20267,21 @@
       "ENCHANTED_SAND:16"
     ],
     "out": "SAND_GENERATOR_9"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "MELON_BLOCK:16",
+      "MELON_BLOCK:16",
+      "MELON_BLOCK:16",
+      "MELON_BLOCK:16",
+      "MELON_GENERATOR_2",
+      "MELON_BLOCK:16",
+      "MELON_BLOCK:16",
+      "MELON_BLOCK:16",
+      "MELON_BLOCK:16"
+    ],
+    "out": "MELON_GENERATOR_3"
   },
   {
     "type": "craft",
@@ -20554,6 +20554,15 @@
   {
     "type": "craft",
     "ingredients": [
+      "COBBLESTONE",
+      "STICK",
+      "STICK"
+    ],
+    "out": "STONE_SPADE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "REVENANT_VISCERA:32",
       "REVENANT_VISCERA:32",
       "REVENANT_VISCERA:32",
@@ -20565,15 +20574,6 @@
       "REVENANT_VISCERA:32"
     ],
     "out": "REVENANT_GENERATOR_10"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "COBBLESTONE",
-      "STICK",
-      "STICK"
-    ],
-    "out": "STONE_SPADE"
   },
   {
     "type": "craft",
@@ -20617,6 +20617,18 @@
   {
     "type": "craft",
     "ingredients": [
+      "STAINED_GLASS-5",
+      "STAINED_GLASS-5",
+      "STAINED_GLASS-5",
+      "STAINED_GLASS-5",
+      "STAINED_GLASS-5",
+      "STAINED_GLASS-5"
+    ],
+    "out": "STAINED_GLASS_PANE-5:16"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "GAZING_PEARL:5",
       "GAZING_PEARL:5",
       "GAZING_PEARL:5",
@@ -20639,18 +20651,6 @@
       "GLOWSTONE_DUST:64"
     ],
     "out": "GLOWSTONE_GENERATOR_3"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "STAINED_GLASS-5",
-      "STAINED_GLASS-5",
-      "STAINED_GLASS-5",
-      "STAINED_GLASS-5",
-      "STAINED_GLASS-5",
-      "STAINED_GLASS-5"
-    ],
-    "out": "STAINED_GLASS_PANE-5:16"
   },
   {
     "type": "craft",
@@ -20682,6 +20682,18 @@
   {
     "type": "craft",
     "ingredients": [
+      "STAINED_GLASS-3",
+      "STAINED_GLASS-3",
+      "STAINED_GLASS-3",
+      "STAINED_GLASS-3",
+      "STAINED_GLASS-3",
+      "STAINED_GLASS-3"
+    ],
+    "out": "STAINED_GLASS_PANE-3:16"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "ENCHANTED_GLOWSTONE_DUST:3",
       "ENCHANTED_GLOWSTONE_DUST:3",
       "ENCHANTED_GLOWSTONE_DUST:3",
@@ -20697,14 +20709,14 @@
   {
     "type": "craft",
     "ingredients": [
-      "STAINED_GLASS-3",
-      "STAINED_GLASS-3",
-      "STAINED_GLASS-3",
-      "STAINED_GLASS-3",
-      "STAINED_GLASS-3",
-      "STAINED_GLASS-3"
+      "STAINED_GLASS-4",
+      "STAINED_GLASS-4",
+      "STAINED_GLASS-4",
+      "STAINED_GLASS-4",
+      "STAINED_GLASS-4",
+      "STAINED_GLASS-4"
     ],
-    "out": "STAINED_GLASS_PANE-3:16"
+    "out": "STAINED_GLASS_PANE-4:16"
   },
   {
     "type": "craft",
@@ -20720,18 +20732,6 @@
       "ENCHANTED_GLOWSTONE_DUST:8"
     ],
     "out": "GLOWSTONE_GENERATOR_6"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "STAINED_GLASS-4",
-      "STAINED_GLASS-4",
-      "STAINED_GLASS-4",
-      "STAINED_GLASS-4",
-      "STAINED_GLASS-4",
-      "STAINED_GLASS-4"
-    ],
-    "out": "STAINED_GLASS_PANE-4:16"
   },
   {
     "type": "craft",
@@ -20763,6 +20763,18 @@
   {
     "type": "craft",
     "ingredients": [
+      "STAINED_GLASS-2",
+      "STAINED_GLASS-2",
+      "STAINED_GLASS-2",
+      "STAINED_GLASS-2",
+      "STAINED_GLASS-2",
+      "STAINED_GLASS-2"
+    ],
+    "out": "STAINED_GLASS_PANE-2:16"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "ENCHANTED_GLOWSTONE_DUST:32",
       "ENCHANTED_GLOWSTONE_DUST:32",
       "ENCHANTED_GLOWSTONE_DUST:32",
@@ -20774,18 +20786,6 @@
       "ENCHANTED_GLOWSTONE_DUST:32"
     ],
     "out": "GLOWSTONE_GENERATOR_8"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "STAINED_GLASS-2",
-      "STAINED_GLASS-2",
-      "STAINED_GLASS-2",
-      "STAINED_GLASS-2",
-      "STAINED_GLASS-2",
-      "STAINED_GLASS-2"
-    ],
-    "out": "STAINED_GLASS_PANE-2:16"
   },
   {
     "type": "craft",
@@ -21486,17 +21486,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "DIAMOND:32",
-      "DIAMOND:32",
-      "DIAMOND:32",
-      "DIAMOND:32",
-      "DIAMOND:32"
-    ],
-    "out": "ENCHANTED_DIAMOND"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "GOLDEN_TOOTH:32",
       "OVERFLUX_CAPACITOR",
       "GOLDEN_TOOTH:32",
@@ -21508,6 +21497,17 @@
       "GOLDEN_TOOTH:32"
     ],
     "out": "OVERFLUX_POWER_ORB"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "DIAMOND:32",
+      "DIAMOND:32",
+      "DIAMOND:32",
+      "DIAMOND:32",
+      "DIAMOND:32"
+    ],
+    "out": "ENCHANTED_DIAMOND"
   },
   {
     "type": "craft",
@@ -21647,21 +21647,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "LOG-2:16",
-      "LOG-2:16",
-      "LOG-2:16",
-      "LOG-2:16",
-      "ENDER_PEARL:16",
-      "LOG-2:16",
-      "LOG-2:16",
-      "LOG-2:16",
-      "LOG-2:16"
-    ],
-    "out": "FORAGING_1_PORTAL"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_BIRCH_LOG:4",
       "ENCHANTED_BIRCH_LOG:4",
       "ENCHANTED_BIRCH_LOG:4",
@@ -21673,6 +21658,21 @@
       "ENCHANTED_BIRCH_LOG:4"
     ],
     "out": "MEDIUM_FORAGING_SACK"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "LOG-2:16",
+      "LOG-2:16",
+      "LOG-2:16",
+      "LOG-2:16",
+      "ENDER_PEARL:16",
+      "LOG-2:16",
+      "LOG-2:16",
+      "LOG-2:16",
+      "LOG-2:16"
+    ],
+    "out": "FORAGING_1_PORTAL"
   },
   {
     "type": "craft",
@@ -21813,6 +21813,15 @@
   {
     "type": "craft",
     "ingredients": [
+      "LEAVES:64",
+      "STICK",
+      "STICK"
+    ],
+    "out": "FOREST_BIOME_STICK"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "EGG",
       "EGG",
       "EGG",
@@ -21820,15 +21829,6 @@
       "EGG"
     ],
     "out": "CHICKEN_HEAD"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "LEAVES:64",
-      "STICK",
-      "STICK"
-    ],
-    "out": "FOREST_BIOME_STICK"
   },
   {
     "type": "craft",
@@ -22754,21 +22754,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "DIGESTED_MUSHROOMS:32",
-      "ENCHANTED_MYCELIUM:32",
-      "DIGESTED_MUSHROOMS:32",
-      "ENCHANTED_MYCELIUM:32",
-      "ENCHANTED_EGG",
-      "ENCHANTED_MYCELIUM:32",
-      "DIGESTED_MUSHROOMS:32",
-      "ENCHANTED_MYCELIUM:32",
-      "DIGESTED_MUSHROOMS:32"
-    ],
-    "out": "MOOSHROOM_COW;1"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_BAKED_POTATO",
       "ENCHANTED_BAKED_POTATO",
       "ENCHANTED_BAKED_POTATO",
@@ -22780,6 +22765,21 @@
       "ENCHANTED_BAKED_POTATO"
     ],
     "out": "POTATO_GENERATOR_10"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "DIGESTED_MUSHROOMS:32",
+      "ENCHANTED_MYCELIUM:32",
+      "DIGESTED_MUSHROOMS:32",
+      "ENCHANTED_MYCELIUM:32",
+      "ENCHANTED_EGG",
+      "ENCHANTED_MYCELIUM:32",
+      "DIGESTED_MUSHROOMS:32",
+      "ENCHANTED_MYCELIUM:32",
+      "DIGESTED_MUSHROOMS:32"
+    ],
+    "out": "MOOSHROOM_COW;1"
   },
   {
     "type": "craft",
@@ -23427,21 +23427,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_ENDSTONE:2",
-      "ENCHANTED_ENDSTONE:2",
-      "ENCHANTED_ENDSTONE:2",
-      "ENCHANTED_ENDSTONE:2",
-      "ENDER_STONE_GENERATOR_5",
-      "ENCHANTED_ENDSTONE:2",
-      "ENCHANTED_ENDSTONE:2",
-      "ENCHANTED_ENDSTONE:2",
-      "ENCHANTED_ENDSTONE:2"
-    ],
-    "out": "ENDER_STONE_GENERATOR_6"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "SUPERB_CARROT_CANDY",
       "SUPERB_CARROT_CANDY",
       "SUPERB_CARROT_CANDY",
@@ -23453,6 +23438,21 @@
       "SUPERB_CARROT_CANDY"
     ],
     "out": "ULTIMATE_CARROT_CANDY:10"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_ENDSTONE:2",
+      "ENCHANTED_ENDSTONE:2",
+      "ENCHANTED_ENDSTONE:2",
+      "ENCHANTED_ENDSTONE:2",
+      "ENDER_STONE_GENERATOR_5",
+      "ENCHANTED_ENDSTONE:2",
+      "ENCHANTED_ENDSTONE:2",
+      "ENCHANTED_ENDSTONE:2",
+      "ENCHANTED_ENDSTONE:2"
+    ],
+    "out": "ENDER_STONE_GENERATOR_6"
   },
   {
     "type": "craft",
@@ -23637,14 +23637,6 @@
       "EGG"
     ],
     "out": "PUMPKIN_PIE"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "CHUM:10",
-      "EMPTY_CHUM_BUCKET"
-    ],
-    "out": "FULL_CHUM_BUCKET"
   },
   {
     "type": "craft",
@@ -23846,22 +23838,22 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_DIAMOND:32",
-      "ENCHANTED_DIAMOND:32",
-      "REVENANT_VISCERA",
-      "REVENANT_VISCERA"
-    ],
-    "out": "REVENANT_BOOTS"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_STRING:64",
       "ENCHANTED_STRING:64",
       "ENCHANTED_STRING:64",
       "ENCHANTED_STRING:64"
     ],
     "out": "SPIDER_BOOTS"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_DIAMOND:32",
+      "ENCHANTED_DIAMOND:32",
+      "REVENANT_VISCERA",
+      "REVENANT_VISCERA"
+    ],
+    "out": "REVENANT_BOOTS"
   },
   {
     "type": "craft",
@@ -24142,15 +24134,6 @@
     "out": "PORTABLE_CAMPFIRE"
   },
   {
-    "type": "forge",
-    "duration": 72000,
-    "ingredients": [
-      "GOBLIN_EGG_YELLOW:99",
-      "FINE_TOPAZ_GEM"
-    ],
-    "out": "GOBLIN_OMELETTE_SUNNY_SIDE"
-  },
-  {
     "type": "craft",
     "ingredients": [
       "ENCHANTED_SHARK_FIN",
@@ -24158,6 +24141,15 @@
       "ENCHANTED_SHARK_FIN"
     ],
     "out": "SHARK_SCALE_HELMET"
+  },
+  {
+    "type": "forge",
+    "duration": 72000,
+    "ingredients": [
+      "GOBLIN_EGG_YELLOW:99",
+      "FINE_TOPAZ_GEM"
+    ],
+    "out": "GOBLIN_OMELETTE_SUNNY_SIDE"
   },
   {
     "type": "forge",
@@ -24273,21 +24265,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "GLACIAL_FRAGMENT:10",
-      "ENCHANTED_PACKED_ICE:2",
-      "GLACIAL_FRAGMENT:10",
-      "ENCHANTED_PACKED_ICE:2",
-      "GLACIAL_RING",
-      "ENCHANTED_PACKED_ICE:2",
-      "GLACIAL_FRAGMENT:10",
-      "ENCHANTED_PACKED_ICE:2",
-      "GLACIAL_FRAGMENT:10"
-    ],
-    "out": "GLACIAL_ARTIFACT"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_PUFFERFISH:4",
       "ENCHANTED_PUFFERFISH:4",
       "ENCHANTED_PUFFERFISH:4",
@@ -24299,6 +24276,21 @@
       "ENCHANTED_PUFFERFISH:4"
     ],
     "out": "MEDIUM_FISHING_SACK"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "GLACIAL_FRAGMENT:10",
+      "ENCHANTED_PACKED_ICE:2",
+      "GLACIAL_FRAGMENT:10",
+      "ENCHANTED_PACKED_ICE:2",
+      "GLACIAL_RING",
+      "ENCHANTED_PACKED_ICE:2",
+      "GLACIAL_FRAGMENT:10",
+      "ENCHANTED_PACKED_ICE:2",
+      "GLACIAL_FRAGMENT:10"
+    ],
+    "out": "GLACIAL_ARTIFACT"
   },
   {
     "type": "craft",
@@ -24317,15 +24309,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENDER_STONE:64",
-      "STICK",
-      "STICK"
-    ],
-    "out": "END_BIOME_STICK"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "WOLF_TOOTH:32",
       "WOLF_TOOTH:32",
       "ENCHANTED_GOLD:32",
@@ -24333,6 +24316,15 @@
       "WOLF_TOOTH:32"
     ],
     "out": "GOLDEN_TOOTH"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENDER_STONE:64",
+      "STICK",
+      "STICK"
+    ],
+    "out": "END_BIOME_STICK"
   },
   {
     "type": "craft",
@@ -24752,17 +24744,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "EMBER_FRAGMENT",
-      "EMBER_FRAGMENT",
-      "EMBER_FRAGMENT",
-      "EMBER_FRAGMENT",
-      "EMBER_FRAGMENT"
-    ],
-    "out": "EMBER_HELMET"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "TARANTULA_SILK:16",
       "TARANTULA_SILK:16",
       "TARANTULA_SILK:16",
@@ -24774,6 +24755,17 @@
       "TARANTULA_SILK:16"
     ],
     "out": "TARANTULA_GENERATOR_9"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "EMBER_FRAGMENT",
+      "EMBER_FRAGMENT",
+      "EMBER_FRAGMENT",
+      "EMBER_FRAGMENT",
+      "EMBER_FRAGMENT"
+    ],
+    "out": "EMBER_HELMET"
   },
   {
     "type": "craft",
@@ -25728,6 +25720,15 @@
   {
     "type": "craft",
     "ingredients": [
+      "ENCHANTED_RED_SAND",
+      "STICK",
+      "STICK"
+    ],
+    "out": "MESA_BIOME_STICK"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "WATER_LILY:16",
       "WATER_LILY:16",
       "WATER_LILY:16",
@@ -25739,15 +25740,6 @@
       "WATER_LILY:16"
     ],
     "out": "HEALING_TALISMAN"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "ENCHANTED_RED_SAND",
-      "STICK",
-      "STICK"
-    ],
-    "out": "MESA_BIOME_STICK"
   },
   {
     "type": "craft",
@@ -26352,21 +26344,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_GOLDEN_CARROT:2",
-      "ENCHANTED_GOLDEN_CARROT:2",
-      "ENCHANTED_GOLDEN_CARROT:2",
-      "ENCHANTED_GOLDEN_CARROT:2",
-      "CARROT_GENERATOR_10",
-      "ENCHANTED_GOLDEN_CARROT:2",
-      "ENCHANTED_GOLDEN_CARROT:2",
-      "ENCHANTED_GOLDEN_CARROT:2",
-      "ENCHANTED_GOLDEN_CARROT:2"
-    ],
-    "out": "CARROT_GENERATOR_11"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_STRING",
       "ENCHANTED_STRING",
       "ENCHANTED_STRING",
@@ -26378,6 +26355,21 @@
       "ENCHANTED_STRING"
     ],
     "out": "SPIDER_GENERATOR_5"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_GOLDEN_CARROT:2",
+      "ENCHANTED_GOLDEN_CARROT:2",
+      "ENCHANTED_GOLDEN_CARROT:2",
+      "ENCHANTED_GOLDEN_CARROT:2",
+      "CARROT_GENERATOR_10",
+      "ENCHANTED_GOLDEN_CARROT:2",
+      "ENCHANTED_GOLDEN_CARROT:2",
+      "ENCHANTED_GOLDEN_CARROT:2",
+      "ENCHANTED_GOLDEN_CARROT:2"
+    ],
+    "out": "CARROT_GENERATOR_11"
   },
   {
     "type": "craft",
@@ -27477,17 +27469,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "FINE_PERIDOT_GEM:16",
-      "FINE_PERIDOT_GEM:16",
-      "FINE_PERIDOT_GEM:16",
-      "FINE_PERIDOT_GEM:16",
-      "FINE_PERIDOT_GEM:16"
-    ],
-    "out": "FLAWLESS_PERIDOT_GEM"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_COAL_BLOCK",
       "ENCHANTED_COAL_BLOCK",
       "ENCHANTED_COAL_BLOCK",
@@ -27499,6 +27480,17 @@
       "ENCHANTED_COAL_BLOCK"
     ],
     "out": "WITHER_SKELETON;4"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "FINE_PERIDOT_GEM:16",
+      "FINE_PERIDOT_GEM:16",
+      "FINE_PERIDOT_GEM:16",
+      "FINE_PERIDOT_GEM:16",
+      "FINE_PERIDOT_GEM:16"
+    ],
+    "out": "FLAWLESS_PERIDOT_GEM"
   },
   {
     "type": "craft",
@@ -27638,21 +27630,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_COAL:64",
-      "ENCHANTED_COAL:64",
-      "ENCHANTED_COAL:64",
-      "ENCHANTED_COAL:64",
-      "COAL_GENERATOR_9",
-      "ENCHANTED_COAL:64",
-      "ENCHANTED_COAL:64",
-      "ENCHANTED_COAL:64",
-      "ENCHANTED_COAL:64"
-    ],
-    "out": "COAL_GENERATOR_10"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "GLASS",
       "GLASS",
       "GLASS",
@@ -27664,6 +27641,21 @@
       "GLASS"
     ],
     "out": "STAINED_GLASS-9:8"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_COAL:64",
+      "ENCHANTED_COAL:64",
+      "ENCHANTED_COAL:64",
+      "ENCHANTED_COAL:64",
+      "COAL_GENERATOR_9",
+      "ENCHANTED_COAL:64",
+      "ENCHANTED_COAL:64",
+      "ENCHANTED_COAL:64",
+      "ENCHANTED_COAL:64"
+    ],
+    "out": "COAL_GENERATOR_10"
   },
   {
     "type": "craft",
@@ -28423,17 +28415,11 @@
   {
     "type": "craft",
     "ingredients": [
-      "POTATO_ITEM:64",
-      "POTATO_ITEM:64",
-      "POTATO_ITEM:64",
-      "POTATO_ITEM:64",
-      "POTATO_GENERATOR_2",
-      "POTATO_ITEM:64",
-      "POTATO_ITEM:64",
-      "POTATO_ITEM:64",
-      "POTATO_ITEM:64"
+      "RED_SANDSTONE",
+      "RED_SANDSTONE",
+      "RED_SANDSTONE"
     ],
-    "out": "POTATO_GENERATOR_3"
+    "out": "STONE_SLAB2:6"
   },
   {
     "type": "craft",
@@ -28453,11 +28439,17 @@
   {
     "type": "craft",
     "ingredients": [
-      "RED_SANDSTONE",
-      "RED_SANDSTONE",
-      "RED_SANDSTONE"
+      "POTATO_ITEM:64",
+      "POTATO_ITEM:64",
+      "POTATO_ITEM:64",
+      "POTATO_ITEM:64",
+      "POTATO_GENERATOR_2",
+      "POTATO_ITEM:64",
+      "POTATO_ITEM:64",
+      "POTATO_ITEM:64",
+      "POTATO_ITEM:64"
     ],
-    "out": "STONE_SLAB2:6"
+    "out": "POTATO_GENERATOR_3"
   },
   {
     "type": "craft",
@@ -28626,20 +28618,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "CROPIE:10",
-      "TIGHTLY_TIED_HAY_BALE",
-      "CROPIE:10",
-      "BOX_OF_SEEDS:3",
-      "MELON_LEGGINGS",
-      "BOX_OF_SEEDS:3",
-      "ENCHANTED_GOLDEN_CARROT:15",
-      "ENCHANTED_GOLDEN_CARROT:15"
-    ],
-    "out": "CROPIE_LEGGINGS"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_MITHRIL:4",
       "ENCHANTED_MITHRIL:4",
       "ENCHANTED_MITHRIL:4",
@@ -28650,6 +28628,20 @@
       "ENCHANTED_MITHRIL:4"
     ],
     "out": "MITHRIL_COAT"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "CROPIE:10",
+      "TIGHTLY_TIED_HAY_BALE",
+      "CROPIE:10",
+      "BOX_OF_SEEDS:3",
+      "MELON_LEGGINGS",
+      "BOX_OF_SEEDS:3",
+      "ENCHANTED_GOLDEN_CARROT:15",
+      "ENCHANTED_GOLDEN_CARROT:15"
+    ],
+    "out": "CROPIE_LEGGINGS"
   },
   {
     "type": "craft",
@@ -29064,6 +29056,14 @@
   {
     "type": "craft",
     "ingredients": [
+      "INK_SACK-1",
+      "WOOL"
+    ],
+    "out": "WOOL-14"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "LIL_PAD:64",
       "LIL_PAD:64",
       "LEECH_SUPREME_FRAGMENT:8"
@@ -29073,10 +29073,10 @@
   {
     "type": "craft",
     "ingredients": [
-      "INK_SACK-1",
+      "INK_SACK-2",
       "WOOL"
     ],
-    "out": "WOOL-14"
+    "out": "WOOL-13"
   },
   {
     "type": "craft",
@@ -29086,14 +29086,6 @@
       "TRANSMISSION_TUNER"
     ],
     "out": "ASPECT_OF_THE_LEECH_2"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "INK_SACK-2",
-      "WOOL"
-    ],
-    "out": "WOOL-13"
   },
   {
     "type": "craft",
@@ -29415,10 +29407,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "WOOL-13",
-      "WOOL-13"
+      "ZOMBIE_HEART",
+      "ZOMBIE_HEART",
+      "ZOMBIE_HEART",
+      "ENCHANTED_ROTTEN_FLESH",
+      "ENCHANTED_ROTTEN_FLESH",
+      "ENCHANTED_ROTTEN_FLESH",
+      "ENCHANTED_ROTTEN_FLESH"
     ],
-    "out": "CARPET-13:3"
+    "out": "ZOMBIE_LEGGINGS"
   },
   {
     "type": "craft",
@@ -29438,15 +29435,10 @@
   {
     "type": "craft",
     "ingredients": [
-      "ZOMBIE_HEART",
-      "ZOMBIE_HEART",
-      "ZOMBIE_HEART",
-      "ENCHANTED_ROTTEN_FLESH",
-      "ENCHANTED_ROTTEN_FLESH",
-      "ENCHANTED_ROTTEN_FLESH",
-      "ENCHANTED_ROTTEN_FLESH"
+      "WOOL-13",
+      "WOOL-13"
     ],
-    "out": "ZOMBIE_LEGGINGS"
+    "out": "CARPET-13:3"
   },
   {
     "type": "craft",
@@ -29711,21 +29703,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_BLAZE_POWDER:32",
-      "ENCHANTED_BLAZE_POWDER:32",
-      "ENCHANTED_BLAZE_POWDER:32",
-      "ENCHANTED_BLAZE_POWDER:32",
-      "BLAZE_GENERATOR_8",
-      "ENCHANTED_BLAZE_POWDER:32",
-      "ENCHANTED_BLAZE_POWDER:32",
-      "ENCHANTED_BLAZE_POWDER:32",
-      "ENCHANTED_BLAZE_POWDER:32"
-    ],
-    "out": "BLAZE_GENERATOR_9"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "ENCHANTED_MYCELIUM:2",
       "ENCHANTED_MYCELIUM:2",
       "ENCHANTED_MYCELIUM:2",
@@ -29737,6 +29714,21 @@
       "ENCHANTED_MYCELIUM:2"
     ],
     "out": "MYCELIUM_GENERATOR_4"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_BLAZE_POWDER:32",
+      "ENCHANTED_BLAZE_POWDER:32",
+      "ENCHANTED_BLAZE_POWDER:32",
+      "ENCHANTED_BLAZE_POWDER:32",
+      "BLAZE_GENERATOR_8",
+      "ENCHANTED_BLAZE_POWDER:32",
+      "ENCHANTED_BLAZE_POWDER:32",
+      "ENCHANTED_BLAZE_POWDER:32",
+      "ENCHANTED_BLAZE_POWDER:32"
+    ],
+    "out": "BLAZE_GENERATOR_9"
   },
   {
     "type": "craft",
@@ -29792,21 +29784,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_BLAZE_POWDER:8",
-      "ENCHANTED_BLAZE_POWDER:8",
-      "ENCHANTED_BLAZE_POWDER:8",
-      "ENCHANTED_BLAZE_POWDER:8",
-      "BLAZE_GENERATOR_6",
-      "ENCHANTED_BLAZE_POWDER:8",
-      "ENCHANTED_BLAZE_POWDER:8",
-      "ENCHANTED_BLAZE_POWDER:8",
-      "ENCHANTED_BLAZE_POWDER:8"
-    ],
-    "out": "BLAZE_GENERATOR_7"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "LOG-1:32",
       "LOG-1:32",
       "LOG-1:32",
@@ -29818,17 +29795,17 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_BLAZE_POWDER:3",
-      "ENCHANTED_BLAZE_POWDER:3",
-      "ENCHANTED_BLAZE_POWDER:3",
-      "ENCHANTED_BLAZE_POWDER:3",
-      "BLAZE_GENERATOR_5",
-      "ENCHANTED_BLAZE_POWDER:3",
-      "ENCHANTED_BLAZE_POWDER:3",
-      "ENCHANTED_BLAZE_POWDER:3",
-      "ENCHANTED_BLAZE_POWDER:3"
+      "ENCHANTED_BLAZE_POWDER:8",
+      "ENCHANTED_BLAZE_POWDER:8",
+      "ENCHANTED_BLAZE_POWDER:8",
+      "ENCHANTED_BLAZE_POWDER:8",
+      "BLAZE_GENERATOR_6",
+      "ENCHANTED_BLAZE_POWDER:8",
+      "ENCHANTED_BLAZE_POWDER:8",
+      "ENCHANTED_BLAZE_POWDER:8",
+      "ENCHANTED_BLAZE_POWDER:8"
     ],
-    "out": "BLAZE_GENERATOR_6"
+    "out": "BLAZE_GENERATOR_7"
   },
   {
     "type": "craft",
@@ -29848,17 +29825,17 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_BLAZE_POWDER",
-      "ENCHANTED_BLAZE_POWDER",
-      "ENCHANTED_BLAZE_POWDER",
-      "ENCHANTED_BLAZE_POWDER",
-      "BLAZE_GENERATOR_4",
-      "ENCHANTED_BLAZE_POWDER",
-      "ENCHANTED_BLAZE_POWDER",
-      "ENCHANTED_BLAZE_POWDER",
-      "ENCHANTED_BLAZE_POWDER"
+      "ENCHANTED_BLAZE_POWDER:3",
+      "ENCHANTED_BLAZE_POWDER:3",
+      "ENCHANTED_BLAZE_POWDER:3",
+      "ENCHANTED_BLAZE_POWDER:3",
+      "BLAZE_GENERATOR_5",
+      "ENCHANTED_BLAZE_POWDER:3",
+      "ENCHANTED_BLAZE_POWDER:3",
+      "ENCHANTED_BLAZE_POWDER:3",
+      "ENCHANTED_BLAZE_POWDER:3"
     ],
-    "out": "BLAZE_GENERATOR_5"
+    "out": "BLAZE_GENERATOR_6"
   },
   {
     "type": "craft",
@@ -29874,6 +29851,21 @@
       "ENCHANTED_MYCELIUM:32"
     ],
     "out": "MYCELIUM_GENERATOR_8"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_BLAZE_POWDER",
+      "ENCHANTED_BLAZE_POWDER",
+      "ENCHANTED_BLAZE_POWDER",
+      "ENCHANTED_BLAZE_POWDER",
+      "BLAZE_GENERATOR_4",
+      "ENCHANTED_BLAZE_POWDER",
+      "ENCHANTED_BLAZE_POWDER",
+      "ENCHANTED_BLAZE_POWDER",
+      "ENCHANTED_BLAZE_POWDER"
+    ],
+    "out": "BLAZE_GENERATOR_5"
   },
   {
     "type": "craft",
@@ -30216,6 +30208,15 @@
   {
     "type": "craft",
     "ingredients": [
+      "STONE",
+      "STONE",
+      "STONE"
+    ],
+    "out": "STEP:6"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "ENCHANTED_IRON:32",
       "ENCHANTED_IRON:32",
       "ENCHANTED_IRON:32",
@@ -30227,15 +30228,6 @@
       "ENCHANTED_IRON:32"
     ],
     "out": "IRON_GENERATOR_9"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "STONE",
-      "STONE",
-      "STONE"
-    ],
-    "out": "STEP:6"
   },
   {
     "type": "craft",
@@ -30300,14 +30292,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "MIRRORED_WOOD",
-      "MIRRORED_WOOD"
-    ],
-    "out": "MIRRORED_STICK"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "GOLD_NUGGET",
       "GOLD_NUGGET",
       "GOLD_NUGGET",
@@ -30319,6 +30303,14 @@
       "GOLD_NUGGET"
     ],
     "out": "SPECKLED_MELON"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "MIRRORED_WOOD",
+      "MIRRORED_WOOD"
+    ],
+    "out": "MIRRORED_STICK"
   },
   {
     "type": "craft",
