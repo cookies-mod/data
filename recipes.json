@@ -279,7 +279,7 @@
   },
   {
     "type": "forge",
-    "duration": 25200,
+    "duration": 21600,
     "ingredients": [
       "GOLDEN_PLATE",
       "FINE_AMBER_GEM:12"
@@ -418,7 +418,7 @@
   },
   {
     "type": "forge",
-    "duration": 82800,
+    "duration": 84600,
     "ingredients": [
       "GEMSTONE_MIXTURE:10",
       "FLAWLESS_RUBY_GEM",
@@ -500,6 +500,15 @@
       "SORROW:3"
     ],
     "out": "SORROW_BOOTS"
+  },
+  {
+    "type": "forge",
+    "duration": 21600,
+    "ingredients": [
+      "ENCHANTED_LAPIS_LAZULI:16",
+      "REFINED_TITANIUM"
+    ],
+    "out": "TITANIUM_TESSERACT"
   },
   {
     "type": "craft",
@@ -1408,7 +1417,7 @@
     "type": "forge",
     "duration": 64800,
     "ingredients": [
-      "GOBLIN_EGG:99"
+      "GOBLIN_EGG:96"
     ],
     "out": "GOBLIN_OMELETTE"
   },
@@ -2507,7 +2516,7 @@
   },
   {
     "type": "forge",
-    "duration": 86400,
+    "duration": 30,
     "ingredients": [
       "BEJEWELED_HANDLE",
       "GLACITE_CHISEL",
@@ -4835,7 +4844,7 @@
   },
   {
     "type": "forge",
-    "duration": 82800,
+    "duration": 84600,
     "ingredients": [
       "FLAWLESS_RUBY_GEM",
       "GEMSTONE_MIXTURE:10",
@@ -5161,7 +5170,7 @@
   },
   {
     "type": "forge",
-    "duration": 32400,
+    "duration": 21600,
     "ingredients": [
       "GLOSSY_GEMSTONE:32",
       "REFINED_MITHRIL",
@@ -6992,9 +7001,9 @@
   },
   {
     "type": "forge",
-    "duration": 54000,
+    "duration": 86400,
     "ingredients": [
-      "MITHRIL_PLATE:3",
+      "MITHRIL_PLATE",
       "DRILL_ENGINE:2"
     ],
     "out": "MITHRIL_DRILL_ENGINE"
@@ -7242,7 +7251,7 @@
   },
   {
     "type": "forge",
-    "duration": 36000,
+    "duration": 86400,
     "ingredients": [
       "REFINED_DIAMOND:5",
       "REFINED_MITHRIL:10",
@@ -7565,12 +7574,11 @@
   },
   {
     "type": "forge",
-    "duration": 108000,
+    "duration": 30,
     "ingredients": [
-      "DRILL_ENGINE:10",
-      "PLASMA:5",
-      "MITHRIL_PLATE:4",
-      "REFINED_TITANIUM:5"
+      "DRILL_ENGINE:2",
+      "MITHRIL_DRILL_ENGINE",
+      "REFINED_TITANIUM:8"
     ],
     "out": "TITANIUM_DRILL_ENGINE"
   },
@@ -7675,7 +7683,7 @@
   },
   {
     "type": "forge",
-    "duration": 21600,
+    "duration": 64800,
     "ingredients": [
       "PERFECT_OPAL_GEM",
       "FUEL_TANK:5",
@@ -8173,11 +8181,12 @@
   },
   {
     "type": "forge",
-    "duration": 72000,
+    "duration": 30,
     "ingredients": [
       "SUPERLITE_MOTOR:10",
-      "MITHRIL_DRILL_ENGINE",
-      "FINE_RUBY_GEM:10"
+      "TITANIUM_DRILL_ENGINE",
+      "PERFECT_RUBY_GEM",
+      "DRILL_ENGINE:5"
     ],
     "out": "RUBY_POLISHED_DRILL_ENGINE"
   },
@@ -8845,10 +8854,11 @@
   },
   {
     "type": "forge",
-    "duration": 72000,
+    "duration": 64800,
     "ingredients": [
-      "GOBLIN_EGG_GREEN:99",
-      "FINE_JADE_GEM"
+      "FLAWLESS_JADE_GEM",
+      "GOBLIN_EGG_GREEN:96",
+      "GOBLIN_OMELETTE"
     ],
     "out": "GOBLIN_OMELETTE_PESTO"
   },
@@ -9449,7 +9459,7 @@
   },
   {
     "type": "forge",
-    "duration": 43200,
+    "duration": 30,
     "ingredients": [
       "REFINED_TUNGSTEN:2",
       "BEJEWELED_HANDLE",
@@ -9621,15 +9631,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "CONCENTRATED_STONE:2",
-      "CONCENTRATED_STONE:2",
-      "CONCENTRATED_STONE:2",
-      "CONCENTRATED_STONE:2",
+      "CONCENTRATED_STONE",
+      "CONCENTRATED_STONE",
+      "CONCENTRATED_STONE",
+      "CONCENTRATED_STONE",
       "HARD_STONE_GENERATOR_10",
-      "CONCENTRATED_STONE:2",
-      "CONCENTRATED_STONE:2",
-      "CONCENTRATED_STONE:2",
-      "CONCENTRATED_STONE:2"
+      "CONCENTRATED_STONE",
+      "CONCENTRATED_STONE",
+      "CONCENTRATED_STONE",
+      "CONCENTRATED_STONE"
     ],
     "out": "HARD_STONE_GENERATOR_11"
   },
@@ -9908,7 +9918,7 @@
   },
   {
     "type": "forge",
-    "duration": 50400,
+    "duration": 21600,
     "ingredients": [
       "STARFALL:512"
     ],
@@ -11874,7 +11884,7 @@
   },
   {
     "type": "forge",
-    "duration": 64800,
+    "duration": 30,
     "ingredients": [
       "REINFORCED_CHISEL",
       "BEJEWELED_HANDLE",
@@ -12837,6 +12847,14 @@
     "out": "GREATER_BACKPACK"
   },
   {
+    "type": "forge",
+    "duration": 21600,
+    "ingredients": [
+      "GLACITE_JEWEL:5"
+    ],
+    "out": "POCKET_ICEBERG"
+  },
+  {
     "type": "craft",
     "ingredients": [
       "WOOD-1",
@@ -13064,8 +13082,8 @@
       "ENCHANTED_IRON_BLOCK:2",
       "PLASMA:20",
       "TITANIUM_DRILL_2",
-      "REFINED_TITANIUM:32",
-      "MITHRIL_PLATE:15"
+      "REFINED_TITANIUM:16",
+      "MITHRIL_PLATE:10"
     ],
     "out": "TITANIUM_DRILL_3"
   },
@@ -13073,8 +13091,8 @@
     "type": "forge",
     "duration": 30,
     "ingredients": [
-      "MITHRIL_PLATE:6",
-      "REFINED_TITANIUM:16",
+      "MITHRIL_PLATE:5",
+      "REFINED_TITANIUM:12",
       "REFINED_DIAMOND:10",
       "TITANIUM_DRILL_1"
     ],
@@ -13086,8 +13104,8 @@
     "ingredients": [
       "GEMSTONE_MIXTURE:16",
       "FLAWLESS_RUBY_GEM",
-      "MITHRIL_PLATE:5",
-      "REFINED_TITANIUM:12",
+      "MITHRIL_PLATE:10",
+      "REFINED_TITANIUM:32",
       "CORLEONITE:30",
       "TITANIUM_DRILL_3",
       "REFINED_DIAMOND:5"
@@ -13100,8 +13118,8 @@
     "ingredients": [
       "FUEL_TANK",
       "DRILL_ENGINE",
-      "REFINED_MITHRIL:10",
-      "REFINED_TITANIUM:10",
+      "REFINED_MITHRIL:8",
+      "REFINED_TITANIUM:8",
       "GOLDEN_PLATE:6"
     ],
     "out": "TITANIUM_DRILL_1"
@@ -13308,10 +13326,11 @@
   },
   {
     "type": "forge",
-    "duration": 72000,
+    "duration": 64800,
     "ingredients": [
-      "GOBLIN_EGG_BLUE:99",
-      "PERFECT_SAPPHIRE_GEM"
+      "GOBLIN_OMELETTE",
+      "FLAWLESS_SAPPHIRE_GEM",
+      "GOBLIN_EGG_BLUE:96"
     ],
     "out": "GOBLIN_OMELETTE_BLUE_CHEESE"
   },
@@ -14794,7 +14813,7 @@
   },
   {
     "type": "forge",
-    "duration": 43200,
+    "duration": 21600,
     "ingredients": [
       "REFINED_MITHRIL:2"
     ],
@@ -14870,7 +14889,7 @@
   },
   {
     "type": "forge",
-    "duration": 90000,
+    "duration": 30,
     "ingredients": [
       "REFINED_DIAMOND:5",
       "REFINED_TITANIUM:10",
@@ -15216,7 +15235,7 @@
   },
   {
     "type": "forge",
-    "duration": 79200,
+    "duration": 21600,
     "ingredients": [
       "TREASURITE:64",
       "ENCHANTED_COBBLESTONE:128"
@@ -15398,7 +15417,7 @@
   },
   {
     "type": "forge",
-    "duration": 82800,
+    "duration": 84600,
     "ingredients": [
       "GEMSTONE_MIXTURE:10",
       "FLAWLESS_RUBY_GEM",
@@ -17030,11 +17049,12 @@
   },
   {
     "type": "forge",
-    "duration": 180000,
+    "duration": 30,
     "ingredients": [
       "GEMSTONE_FUEL_TANK",
+      "PRECURSOR_APPARATUS:16",
       "GEMSTONE_MIXTURE:25",
-      "SYNTHETIC_HEART:70"
+      "PLASMA:32"
     ],
     "out": "PERFECTLY_CUT_FUEL_TANK"
   },
@@ -17488,6 +17508,18 @@
   {
     "type": "craft",
     "ingredients": [
+      "CONTROL_SWITCH",
+      "ELECTRON_TRANSMITTER",
+      "FTX_3070",
+      "ROBOTRON_REFLECTOR",
+      "SUPERLITE_MOTOR",
+      "SYNTHETIC_HEART"
+    ],
+    "out": "PRECURSOR_APPARATUS"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "WISE_FRAGMENT:10",
       "WISE_FRAGMENT:10",
       "WISE_FRAGMENT:10",
@@ -17564,7 +17596,7 @@
     "type": "forge",
     "duration": 30,
     "ingredients": [
-      "GOLDEN_PLATE:5",
+      "GOLDEN_PLATE",
       "MITHRIL_DRILL_1",
       "MITHRIL_PLATE"
     ],
@@ -17842,14 +17874,14 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_COBBLESTONE:32",
-      "ENCHANTED_COBBLESTONE:32",
-      "ENCHANTED_COBBLESTONE:32",
-      "ENCHANTED_COBBLESTONE:32",
-      "ENCHANTED_COBBLESTONE:32",
-      "ENCHANTED_COBBLESTONE:32",
-      "ENCHANTED_COBBLESTONE:32",
-      "ENCHANTED_COBBLESTONE:32"
+      "ENCHANTED_COBBLESTONE:16",
+      "ENCHANTED_COBBLESTONE:16",
+      "ENCHANTED_COBBLESTONE:16",
+      "ENCHANTED_COBBLESTONE:16",
+      "ENCHANTED_COBBLESTONE:16",
+      "ENCHANTED_COBBLESTONE:16",
+      "ENCHANTED_COBBLESTONE:16",
+      "ENCHANTED_COBBLESTONE:16"
     ],
     "out": "HASTE_RING"
   },
@@ -19320,6 +19352,15 @@
       "MAGMA_FISH_GOLD:10"
     ],
     "out": "HELLFIRE_ROD"
+  },
+  {
+    "type": "forge",
+    "duration": 64800,
+    "ingredients": [
+      "TREASURITE:16",
+      "STARFALL:64"
+    ],
+    "out": "STARFALL_SEASONING"
   },
   {
     "type": "craft",
@@ -22119,7 +22160,7 @@
   },
   {
     "type": "forge",
-    "duration": 82800,
+    "duration": 84600,
     "ingredients": [
       "DIVAN_FRAGMENT:7",
       "FLAWLESS_RUBY_GEM",
@@ -22151,10 +22192,11 @@
   },
   {
     "type": "forge",
-    "duration": 72000,
+    "duration": 64800,
     "ingredients": [
-      "GOBLIN_EGG_RED:99",
-      "FLAWLESS_RUBY_GEM"
+      "FLAWLESS_RUBY_GEM",
+      "GOBLIN_OMELETTE",
+      "GOBLIN_EGG_RED:96"
     ],
     "out": "GOBLIN_OMELETTE_SPICY"
   },
@@ -23641,6 +23683,14 @@
   {
     "type": "craft",
     "ingredients": [
+      "CHUM:10",
+      "EMPTY_CHUM_BUCKET"
+    ],
+    "out": "FULL_CHUM_BUCKET"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "ENCHANTED_LUSH_BERBERIS:8",
       "ENCHANTED_LUSH_BERBERIS:8",
       "ENCHANTED_LUSH_BERBERIS:8",
@@ -24144,10 +24194,11 @@
   },
   {
     "type": "forge",
-    "duration": 72000,
+    "duration": 64800,
     "ingredients": [
-      "GOBLIN_EGG_YELLOW:99",
-      "FINE_TOPAZ_GEM"
+      "GOBLIN_EGG_YELLOW:96",
+      "FLAWLESS_TOPAZ_GEM",
+      "GOBLIN_OMELETTE"
     ],
     "out": "GOBLIN_OMELETTE_SUNNY_SIDE"
   },
@@ -25079,12 +25130,11 @@
   },
   {
     "type": "forge",
-    "duration": 108000,
+    "duration": 30,
     "ingredients": [
-      "TITANIUM_DRILL_ENGINE",
-      "FTX_3070:25",
-      "ELECTRON_TRANSMITTER:25",
-      "FINE_SAPPHIRE_GEM:20"
+      "RUBY_POLISHED_DRILL_ENGINE",
+      "PRECURSOR_APPARATUS:8",
+      "PERFECT_SAPPHIRE_GEM:3"
     ],
     "out": "SAPPHIRE_POLISHED_DRILL_ENGINE"
   },
@@ -25387,6 +25437,21 @@
   {
     "type": "craft",
     "ingredients": [
+      "ENCHANTED_COBBLESTONE:32",
+      "ENCHANTED_COBBLESTONE:32",
+      "ENCHANTED_COBBLESTONE:32",
+      "ENCHANTED_COBBLESTONE:32",
+      "HASTE_RING",
+      "ENCHANTED_COBBLESTONE:32",
+      "ENCHANTED_COBBLESTONE:32",
+      "ENCHANTED_COBBLESTONE:32",
+      "ENCHANTED_COBBLESTONE:32"
+    ],
+    "out": "HASTE_ARTIFACT"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "REVENANT_FLESH:32",
       "ZOMBIE_TALISMAN",
       "REVENANT_FLESH:32"
@@ -25671,12 +25736,13 @@
   },
   {
     "type": "forge",
-    "duration": 180000,
+    "duration": 30,
     "ingredients": [
-      "FLAWLESS_AMBER_GEM",
-      "ROBOTRON_REFLECTOR:50",
+      "DRILL_ENGINE:5",
+      "PERFECT_AMBER_GEM:5",
+      "PRECURSOR_APPARATUS:16",
       "SAPPHIRE_POLISHED_DRILL_ENGINE",
-      "RUBY_POLISHED_DRILL_ENGINE"
+      "PLASMA:32"
     ],
     "out": "AMBER_POLISHED_DRILL_ENGINE"
   },
@@ -26660,7 +26726,7 @@
   },
   {
     "type": "forge",
-    "duration": 108000,
+    "duration": 30,
     "ingredients": [
       "CONTROL_SWITCH:30",
       "GEMSTONE_MIXTURE:10",
@@ -28601,6 +28667,15 @@
     "out": "BLUETOOTH_RING"
   },
   {
+    "type": "forge",
+    "duration": 43200,
+    "ingredients": [
+      "BEJEWELED_HANDLE:3",
+      "FLAWLESS_TOPAZ_GEM:2"
+    ],
+    "out": "POLISHED_TOPAZ_ROD"
+  },
+  {
     "type": "craft",
     "ingredients": [
       "INK_SACK-3:10",
@@ -29580,7 +29655,7 @@
   },
   {
     "type": "forge",
-    "duration": 36000,
+    "duration": 21600,
     "ingredients": [
       "FLAWLESS_ONYX_GEM",
       "GLACITE_AMALGAMATION:4"
@@ -30385,7 +30460,8 @@
     "ingredients": [
       "TREASURITE:100",
       "FLAWLESS_JASPER_GEM",
-      "GEMSTONE_DRILL_3"
+      "GEMSTONE_DRILL_3",
+      "MAGMA_CORE:16"
     ],
     "out": "GEMSTONE_DRILL_4"
   },
@@ -30396,7 +30472,7 @@
       "FLAWLESS_TOPAZ_GEM",
       "GEMSTONE_MIXTURE:3",
       "GEMSTONE_DRILL_2",
-      "MAGMA_CORE:5"
+      "MAGMA_CORE:8"
     ],
     "out": "GEMSTONE_DRILL_3"
   },
@@ -30426,11 +30502,11 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_RED_SAND_CUBE",
-      "BURNING_EYE:50",
-      "ENCHANTED_RED_SAND_CUBE",
       "MAGMA_CHUNK:20",
-      "MAGMA_CHUNK:20"
+      "BURNING_EYE:50",
+      "MAGMA_CHUNK:20",
+      "ENCHANTED_RED_SAND_CUBE",
+      "ENCHANTED_RED_SAND_CUBE"
     ],
     "out": "BERSERKER_HELMET"
   },
@@ -30447,7 +30523,7 @@
   },
   {
     "type": "forge",
-    "duration": 86400,
+    "duration": 21600,
     "ingredients": [
       "ROUGH_AMBER_GEM:64",
       "HARD_STONE:128"
