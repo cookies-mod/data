@@ -6843,15 +6843,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "BLOODBADGE:2",
+      "BLOODBADGE",
       "WILTED_BERBERIS_BUNCH",
-      "BLOODBADGE:2",
-      "BLOODBADGE:2",
+      "BLOODBADGE",
+      "BLOODBADGE",
       "WILTED_BERBERIS_BUNCH",
-      "BLOODBADGE:2",
-      "BLOODBADGE:2",
+      "BLOODBADGE",
+      "BLOODBADGE",
       "WILTED_BERBERIS_BUNCH",
-      "BLOODBADGE:2"
+      "BLOODBADGE"
     ],
     "out": "RIFT_TROPHY_VAMPIRIC"
   },
@@ -8183,9 +8183,9 @@
     "type": "forge",
     "duration": 30,
     "ingredients": [
-      "SUPERLITE_MOTOR:10",
-      "TITANIUM_DRILL_ENGINE",
       "PERFECT_RUBY_GEM",
+      "PRECURSOR_APPARATUS:4",
+      "TITANIUM_DRILL_ENGINE",
       "DRILL_ENGINE:5"
     ],
     "out": "RUBY_POLISHED_DRILL_ENGINE"
@@ -19456,14 +19456,14 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_REDSTONE_BLOCK",
-      "ENCHANTED_REDSTONE_BLOCK",
-      "ENCHANTED_REDSTONE_BLOCK",
-      "ENCHANTED_REDSTONE_BLOCK",
-      "ENCHANTED_REDSTONE_BLOCK",
-      "ENCHANTED_REDSTONE_BLOCK",
+      "ENCHANTED_REDSTONE:64",
+      "ENCHANTED_REDSTONE:64",
+      "ENCHANTED_REDSTONE:64",
+      "ENCHANTED_REDSTONE:64",
+      "ENCHANTED_REDSTONE:64",
+      "ENCHANTED_REDSTONE:64",
       "SUPER_COMPACTOR_3000",
-      "ENCHANTED_REDSTONE_BLOCK"
+      "ENCHANTED_REDSTONE:64"
     ],
     "out": "PERSONAL_COMPACTOR_4000"
   },
@@ -25132,9 +25132,11 @@
     "type": "forge",
     "duration": 30,
     "ingredients": [
+      "PERFECT_SAPPHIRE_GEM:3",
+      "DRILL_ENGINE:5",
       "RUBY_POLISHED_DRILL_ENGINE",
-      "PRECURSOR_APPARATUS:8",
-      "PERFECT_SAPPHIRE_GEM:3"
+      "PLASMA:16",
+      "PRECURSOR_APPARATUS:8"
     ],
     "out": "SAPPHIRE_POLISHED_DRILL_ENGINE"
   },
@@ -26728,9 +26730,9 @@
     "type": "forge",
     "duration": 30,
     "ingredients": [
-      "CONTROL_SWITCH:30",
       "GEMSTONE_MIXTURE:10",
-      "TITANIUM_FUEL_TANK"
+      "TITANIUM_FUEL_TANK",
+      "PRECURSOR_APPARATUS:4"
     ],
     "out": "GEMSTONE_FUEL_TANK"
   },
