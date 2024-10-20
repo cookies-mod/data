@@ -5819,14 +5819,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40"
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "TANK_MINER_CHESTPLATE",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32"
     ],
     "out": "HEAT_CHESTPLATE"
   },
@@ -8895,13 +8896,13 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE"
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK"
     ],
     "out": "MINER_OUTFIT_LEGGINGS"
   },
@@ -15769,13 +15770,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40"
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "TANK_MINER_LEGGINGS",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32"
     ],
     "out": "HEAT_LEGGINGS"
   },
@@ -16503,14 +16506,14 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE"
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK"
     ],
     "out": "MINER_OUTFIT_CHESTPLATE"
   },
@@ -17980,10 +17983,10 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE"
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK"
     ],
     "out": "MINER_OUTFIT_BOOTS"
   },
@@ -21675,10 +21678,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40"
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "TANK_MINER_BOOTS",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32"
     ],
     "out": "HEAT_BOOTS"
   },
@@ -24163,11 +24171,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40",
-      "HARD_STONE:40"
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "TANK_MINER_HELMET",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32",
+      "HARD_STONE:32"
     ],
     "out": "HEAT_HELMET"
   },
@@ -24198,17 +24210,6 @@
       "GOBLIN_OMELETTE"
     ],
     "out": "GOBLIN_OMELETTE_SUNNY_SIDE"
-  },
-  {
-    "type": "forge",
-    "duration": 79200,
-    "ingredients": [
-      "REFINED_DIAMOND",
-      "ENCHANTED_GOLD:30",
-      "BEJEWELED_HANDLE:2",
-      "REFINED_MITHRIL:3"
-    ],
-    "out": "REFINED_MITHRIL_PICKAXE"
   },
   {
     "type": "craft",
@@ -25460,11 +25461,11 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE",
-      "ENCHANTED_COBBLESTONE"
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK",
+      "IRON_BLOCK"
     ],
     "out": "MINER_OUTFIT_HELMET"
   },
