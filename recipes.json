@@ -23938,16 +23938,6 @@
     "out": "RUNAANS_BOW"
   },
   {
-    "type": "forge",
-    "duration": 2700,
-    "ingredients": [
-      "ENCHANTED_MITHRIL:30",
-      "ENCHANTED_GOLD:10",
-      "BEJEWELED_HANDLE"
-    ],
-    "out": "MITHRIL_PICKAXE"
-  },
-  {
     "type": "craft",
     "ingredients": [
       "WOOD",
