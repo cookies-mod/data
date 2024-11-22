@@ -1081,6 +1081,15 @@
       ]
     },
     {
+      "armor_id": "BIOHAZARD",
+      "items": [
+        "BIOHAZARD_LEGGINGS",
+        "BIOHAZARD_SUIT",
+        "BIOHAZARD_HELMET",
+        "BIOHAZARD_BOOTS"
+      ]
+    },
+    {
       "armor_id": "CELESTE",
       "items": [
         "CELESTE_LEGGINGS",
@@ -1291,6 +1300,7 @@
     },
     {
       "armor_id": "MUSHROOM",
+      "parent": "BIOHAZARD",
       "items": [
         "MUSHROOM_CHESTPLATE",
         "MUSHROOM_BOOTS",
@@ -1686,6 +1696,7 @@
     "GOLD_CANDY",
     "SINGING_FISH",
     "GHOST_PERSONALITY",
+    "CHOCO_RABBIT_PERSONALITY",
     "GAME_ANNIHILATOR",
     "PET_SKIN_YETI_GROWN_UP",
     "NAME_TAG",
@@ -2608,6 +2619,9 @@
     },
     {
       "id": "MELON_DICER_3"
+    },
+    {
+      "id": "PESTHUNTERS_GLOVES"
     },
     {
       "id": "SPRAYONATOR"

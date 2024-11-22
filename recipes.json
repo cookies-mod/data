@@ -1657,13 +1657,13 @@
     "type": "craft",
     "ingredients": [
       "JACOBS_TICKET:64",
-      "TIGHTLY_TIED_HAY_BALE:16",
+      "ENCHANTED_HAY_BALE:16",
       "JACOBS_TICKET:64",
-      "TIGHTLY_TIED_HAY_BALE:16",
+      "ENCHANTED_HAY_BALE:16",
       "THEORETICAL_HOE_WHEAT_2",
-      "TIGHTLY_TIED_HAY_BALE:16",
+      "ENCHANTED_HAY_BALE:16",
       "JACOBS_TICKET:64",
-      "TIGHTLY_TIED_HAY_BALE:16",
+      "ENCHANTED_HAY_BALE:16",
       "JACOBS_TICKET:64"
     ],
     "out": "THEORETICAL_HOE_WHEAT_3"
@@ -1687,13 +1687,13 @@
     "type": "craft",
     "ingredients": [
       "JACOBS_TICKET:16",
-      "ENCHANTED_HAY_BLOCK:64",
+      "ENCHANTED_WHEAT:16",
       "JACOBS_TICKET:16",
-      "ENCHANTED_HAY_BLOCK:64",
+      "ENCHANTED_WHEAT:16",
       "THEORETICAL_HOE_WHEAT_1",
-      "ENCHANTED_HAY_BLOCK:64",
+      "ENCHANTED_WHEAT:16",
       "JACOBS_TICKET:16",
-      "ENCHANTED_HAY_BLOCK:64",
+      "ENCHANTED_WHEAT:16",
       "JACOBS_TICKET:16"
     ],
     "out": "THEORETICAL_HOE_WHEAT_2"
@@ -2558,21 +2558,6 @@
       "STICK"
     ],
     "out": "FIRE_FREEZE_STAFF"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "ENCHANTED_HAY_BLOCK:16",
-      "ENCHANTED_HAY_BLOCK:16",
-      "ENCHANTED_HAY_BLOCK:16",
-      "ENCHANTED_HAY_BLOCK:16",
-      "ENCHANTED_HAY_BLOCK:16",
-      "ENCHANTED_HAY_BLOCK:16",
-      "ENCHANTED_HAY_BLOCK:16",
-      "ENCHANTED_HAY_BLOCK:16",
-      "ENCHANTED_HAY_BLOCK:16"
-    ],
-    "out": "TIGHTLY_TIED_HAY_BALE"
   },
   {
     "type": "craft",
@@ -5770,7 +5755,7 @@
   },
   {
     "type": "forge",
-    "duration": 30,
+    "duration": 1800,
     "ingredients": [
       "BEJEWELED_HANDLE",
       "ENCHANTED_UMBER:192"
@@ -9139,21 +9124,6 @@
   {
     "type": "craft",
     "ingredients": [
-      "HAY_BLOCK:16",
-      "HAY_BLOCK:16",
-      "HAY_BLOCK:16",
-      "HAY_BLOCK:16",
-      "HAY_BLOCK:16",
-      "HAY_BLOCK:16",
-      "HAY_BLOCK:16",
-      "HAY_BLOCK:16",
-      "HAY_BLOCK:16"
-    ],
-    "out": "ENCHANTED_HAY_BLOCK"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
       "TITANIUM_ORE:32",
       "TITANIUM_ORE:32",
       "TITANIUM_ORE:32",
@@ -9599,7 +9569,7 @@
   },
   {
     "type": "forge",
-    "duration": 216000,
+    "duration": 30,
     "ingredients": [
       "TITANIUM_DRILL_4",
       "SKYBLOCK_COIN:50000000",
@@ -15990,6 +15960,17 @@
       "ENCHANTED_RED_MUSHROOM:64"
     ],
     "out": "MUSHROOM_GENERATOR_11"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32"
+    ],
+    "out": "ENCHANTED_HAY_BALE"
   },
   {
     "type": "craft",
@@ -22420,7 +22401,7 @@
   },
   {
     "type": "forge",
-    "duration": 21600,
+    "duration": 1800,
     "ingredients": [
       "UMBER_PLATE",
       "TUNGSTEN_PLATE",
@@ -28875,6 +28856,17 @@
   {
     "type": "craft",
     "ingredients": [
+      "WHEAT:32",
+      "WHEAT:32",
+      "WHEAT:32",
+      "WHEAT:32",
+      "WHEAT:32"
+    ],
+    "out": "ENCHANTED_WHEAT"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "ENCHANTED_DARK_OAK_LOG:6",
       "SOUL_STRING:6",
       "ENCHANTED_SPIDER_EYE:6",
@@ -29302,7 +29294,7 @@
   },
   {
     "type": "forge",
-    "duration": 30,
+    "duration": 1800,
     "ingredients": [
       "ENCHANTED_TUNGSTEN:192",
       "BEJEWELED_HANDLE"
@@ -30514,23 +30506,8 @@
     "type": "forge",
     "duration": 21600,
     "ingredients": [
-      "ROUGH_AMBER_GEM:64",
-      "HARD_STONE:128"
-    ],
-    "out": "HOT_STUFF"
-  },
-  {
-    "type": "craft",
-    "ingredients": [
-      "ENCHANTED_HARD_STONE:12",
-      "ENCHANTED_HARD_STONE:12",
-      "ENCHANTED_HARD_STONE:12",
-      "ENCHANTED_HARD_STONE:12",
-      "LAVA_BUCKET",
-      "ENCHANTED_HARD_STONE:12",
-      "ENCHANTED_HARD_STONE:12",
-      "ENCHANTED_HARD_STONE:12",
-      "ENCHANTED_HARD_STONE:12"
+      "FLAWLESS_TOPAZ_GEM",
+      "ENCHANTED_HARD_STONE:128"
     ],
     "out": "HOT_STUFF"
   },
