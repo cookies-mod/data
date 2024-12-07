@@ -817,15 +817,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_HAY_BLOCK:16",
+      "ENCHANTED_HAY_BALE:3",
       "ENCHANTED_STRING:16",
-      "ENCHANTED_HAY_BLOCK:16",
-      "ENCHANTED_HAY_BLOCK:16",
+      "ENCHANTED_HAY_BALE:3",
+      "ENCHANTED_HAY_BALE:2",
       "ENCHANTED_LEATHER:4",
-      "ENCHANTED_HAY_BLOCK:16",
-      "ENCHANTED_HAY_BLOCK:16",
-      "ENCHANTED_HAY_BLOCK:16",
-      "ENCHANTED_HAY_BLOCK:16"
+      "ENCHANTED_HAY_BALE:2",
+      "ENCHANTED_HAY_BALE:2",
+      "ENCHANTED_HAY_BALE:2",
+      "ENCHANTED_HAY_BALE:2"
     ],
     "out": "LARGE_ENCHANTED_AGRONOMY_SACK"
   },
@@ -2992,9 +2992,9 @@
     "ingredients": [
       "CROPIE:10",
       "CROPIE:10",
-      "TIGHTLY_TIED_HAY_BALE",
+      "ENCHANTED_HAY_BALE:8",
       "MELON_BOOTS",
-      "TIGHTLY_TIED_HAY_BALE"
+      "ENCHANTED_HAY_BALE:8"
     ],
     "out": "CROPIE_BOOTS"
   },
@@ -3185,15 +3185,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_HAY_BLOCK:4",
-      "ENCHANTED_HAY_BLOCK:4",
-      "ENCHANTED_HAY_BLOCK:4",
-      "ENCHANTED_HAY_BLOCK:4",
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32",
       "SMALL_AGRONOMY_SACK",
-      "ENCHANTED_HAY_BLOCK:4",
-      "ENCHANTED_HAY_BLOCK:4",
-      "ENCHANTED_HAY_BLOCK:4",
-      "ENCHANTED_HAY_BLOCK:4"
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32"
     ],
     "out": "MEDIUM_AGRONOMY_SACK"
   },
@@ -4882,10 +4882,10 @@
   {
     "type": "craft",
     "ingredients": [
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK"
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8"
     ],
     "out": "FARM_SUIT_BOOTS"
   },
@@ -5967,13 +5967,13 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK"
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8"
     ],
     "out": "FARM_ARMOR_LEGGINGS"
   },
@@ -6498,10 +6498,10 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK"
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8"
     ],
     "out": "FARM_ARMOR_BOOTS"
   },
@@ -7354,6 +7354,21 @@
   {
     "type": "craft",
     "ingredients": [
+      "ORB_OF_ENERGY:40",
+      "ORB_OF_ENERGY:40",
+      "ORB_OF_ENERGY:40",
+      "ORB_OF_ENERGY:40",
+      "STORM_IN_A_BOTTLE_EMPTY",
+      "ORB_OF_ENERGY:40",
+      "ORB_OF_ENERGY:40",
+      "ORB_OF_ENERGY:40",
+      "ORB_OF_ENERGY:40"
+    ],
+    "out": "HURRICANE_IN_A_BOTTLE_EMPTY"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "IRON_INGOT",
       "IRON_INGOT",
       "IRON_INGOT",
@@ -7966,15 +7981,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "STUFFED_CHILI_PEPPER:8",
-      "ENCHANTED_HUGE_MUSHROOM_1:8",
-      "STUFFED_CHILI_PEPPER:8",
+      "STUFFED_CHILI_PEPPER",
+      "ENCHANTED_HUGE_MUSHROOM_1:64",
+      "STUFFED_CHILI_PEPPER",
       "ENCHANTED_RABBIT_HIDE:8",
       "VOLTA:8",
       "ENCHANTED_RABBIT_HIDE:8",
-      "STUFFED_CHILI_PEPPER:8",
-      "ENCHANTED_HUGE_MUSHROOM_1:8",
-      "STUFFED_CHILI_PEPPER:8"
+      "STUFFED_CHILI_PEPPER",
+      "ENCHANTED_HUGE_MUSHROOM_1:64",
+      "STUFFED_CHILI_PEPPER"
     ],
     "out": "ULTIMATE_HABANERO_TACTICS;4"
   },
@@ -12668,15 +12683,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_HAY_BLOCK:8",
-      "ENCHANTED_HAY_BLOCK:8",
-      "ENCHANTED_HAY_BLOCK:8",
-      "ENCHANTED_HAY_BLOCK:8",
+      "ENCHANTED_WHEAT:64",
+      "ENCHANTED_WHEAT:64",
+      "ENCHANTED_WHEAT:64",
+      "ENCHANTED_WHEAT:64",
       "MEDIUM_AGRONOMY_SACK",
-      "ENCHANTED_HAY_BLOCK:8",
-      "ENCHANTED_HAY_BLOCK:8",
-      "ENCHANTED_HAY_BLOCK:8",
-      "ENCHANTED_HAY_BLOCK:8"
+      "ENCHANTED_WHEAT:64",
+      "ENCHANTED_WHEAT:64",
+      "ENCHANTED_WHEAT:64",
+      "ENCHANTED_WHEAT:64"
     ],
     "out": "LARGE_AGRONOMY_SACK"
   },
@@ -13081,7 +13096,7 @@
   },
   {
     "type": "forge",
-    "duration": 230400,
+    "duration": 14400,
     "ingredients": [
       "FUEL_TANK",
       "DRILL_ENGINE",
@@ -17183,15 +17198,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "MOLTEN_POWDER:8",
+      "MOLTEN_POWDER:3",
+      "ENCHANTED_BLAZE_ROD:4",
+      "MOLTEN_POWDER:3",
+      "MAGMA_FISH_GOLD:2",
       "INFERNO_VERTEX",
-      "MOLTEN_POWDER:8",
-      "INFERNO_VERTEX",
-      "MAGMA_FISH_GOLD:16",
-      "INFERNO_VERTEX",
-      "MOLTEN_POWDER:8",
-      "INFERNO_VERTEX",
-      "MOLTEN_POWDER:8"
+      "MAGMA_FISH_GOLD:2",
+      "MOLTEN_POWDER:3",
+      "ENCHANTED_BLAZE_ROD:4",
+      "MOLTEN_POWDER:3"
     ],
     "out": "SMOLDERING_CHAMBERS_TRAVEL_SCROLL"
   },
@@ -19335,6 +19350,17 @@
     "out": "HELLFIRE_ROD"
   },
   {
+    "type": "craft",
+    "ingredients": [
+      "MAGMA_FISH_DIAMOND",
+      "MAGMA_FISH_DIAMOND",
+      "INFERNO_ROD",
+      "MAGMA_FISH_DIAMOND",
+      "MAGMA_FISH_DIAMOND"
+    ],
+    "out": "HELLFIRE_ROD"
+  },
+  {
     "type": "forge",
     "duration": 64800,
     "ingredients": [
@@ -20543,6 +20569,17 @@
   {
     "type": "craft",
     "ingredients": [
+      "EMERALD_BLOCK:32",
+      "EMERALD_BLOCK:32",
+      "EMERALD_BLOCK:32",
+      "EMERALD_BLOCK:32",
+      "EMERALD_BLOCK:32"
+    ],
+    "out": "ENCHANTED_EMERALD:9"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "HOLY_FRAGMENT:10",
       "HOLY_FRAGMENT:10",
       "HOLY_FRAGMENT:10",
@@ -21035,11 +21072,11 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK"
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8"
     ],
     "out": "FARM_ARMOR_HELMET"
   },
@@ -21159,30 +21196,30 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_HAY_BLOCK:4",
-      "ENCHANTED_HAY_BLOCK:4",
-      "ENCHANTED_HAY_BLOCK:4",
-      "ENCHANTED_HAY_BLOCK:4",
+      "ENCHANTED_WHEAT:64",
+      "ENCHANTED_WHEAT:64",
+      "ENCHANTED_WHEAT:64",
+      "ENCHANTED_WHEAT:64",
       "WHEAT_GENERATOR_10",
-      "ENCHANTED_HAY_BLOCK:4",
-      "ENCHANTED_HAY_BLOCK:4",
-      "ENCHANTED_HAY_BLOCK:4",
-      "ENCHANTED_HAY_BLOCK:4"
+      "ENCHANTED_WHEAT:64",
+      "ENCHANTED_WHEAT:64",
+      "ENCHANTED_WHEAT:64",
+      "ENCHANTED_WHEAT:64"
     ],
     "out": "WHEAT_GENERATOR_11"
   },
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_HAY_BLOCK:2",
-      "ENCHANTED_HAY_BLOCK:2",
-      "ENCHANTED_HAY_BLOCK:2",
-      "ENCHANTED_HAY_BLOCK:2",
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32",
       "WHEAT_GENERATOR_9",
-      "ENCHANTED_HAY_BLOCK:2",
-      "ENCHANTED_HAY_BLOCK:2",
-      "ENCHANTED_HAY_BLOCK:2",
-      "ENCHANTED_HAY_BLOCK:2"
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32",
+      "ENCHANTED_WHEAT:32"
     ],
     "out": "WHEAT_GENERATOR_10"
   },
@@ -21534,6 +21571,17 @@
   {
     "type": "craft",
     "ingredients": [
+      "DIAMOND_BLOCK:32",
+      "DIAMOND_BLOCK:32",
+      "DIAMOND_BLOCK:32",
+      "DIAMOND_BLOCK:32",
+      "DIAMOND_BLOCK:32"
+    ],
+    "out": "ENCHANTED_DIAMOND:9"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "GOLD_INGOT",
       "GOLD_INGOT",
       "GOLD_INGOT",
@@ -21825,9 +21873,9 @@
   {
     "type": "craft",
     "ingredients": [
-      "HAY_BLOCK:5",
-      "HAY_BLOCK:5",
-      "HAY_BLOCK:5",
+      "WHEAT:32",
+      "WHEAT:32",
+      "WHEAT:32",
       "DIRT:5",
       "DIRT:5",
       "DIRT:5",
@@ -22177,6 +22225,17 @@
     "out": "ENCHANTED_GOLD"
   },
   {
+    "type": "craft",
+    "ingredients": [
+      "GOLD_BLOCK:32",
+      "GOLD_BLOCK:32",
+      "GOLD_BLOCK:32",
+      "GOLD_BLOCK:32",
+      "GOLD_BLOCK:32"
+    ],
+    "out": "ENCHANTED_GOLD:9"
+  },
+  {
     "type": "forge",
     "duration": 64800,
     "ingredients": [
@@ -22398,6 +22457,21 @@
       "TORCH"
     ],
     "out": "JACK_O_LANTERN"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ORB_OF_ENERGY:4",
+      "ORB_OF_ENERGY:4",
+      "ORB_OF_ENERGY:4",
+      "ORB_OF_ENERGY:4",
+      "THUNDER_IN_A_BOTTLE_EMPTY",
+      "ORB_OF_ENERGY:4",
+      "ORB_OF_ENERGY:4",
+      "ORB_OF_ENERGY:4",
+      "ORB_OF_ENERGY:4"
+    ],
+    "out": "STORM_IN_A_BOTTLE_EMPTY"
   },
   {
     "type": "forge",
@@ -22635,14 +22709,14 @@
   {
     "type": "craft",
     "ingredients": [
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK"
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8"
     ],
     "out": "FARM_SUIT_CHESTPLATE"
   },
@@ -22753,14 +22827,14 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK"
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8"
     ],
     "out": "FARM_ARMOR_CHESTPLATE"
   },
@@ -23402,7 +23476,7 @@
     "type": "craft",
     "ingredients": [
       "CROPIE:10",
-      "TIGHTLY_TIED_HAY_BALE",
+      "ENCHANTED_HAY_BALE:8",
       "CROPIE:10",
       "BOX_OF_SEEDS:3",
       "MELON_HELMET",
@@ -24704,6 +24778,17 @@
   {
     "type": "craft",
     "ingredients": [
+      "COAL_BLOCK:32",
+      "COAL_BLOCK:32",
+      "COAL_BLOCK:32",
+      "COAL_BLOCK:32",
+      "COAL_BLOCK:32"
+    ],
+    "out": "ENCHANTED_COAL:9"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "TARANTULA_SILK",
       "TARANTULA_SILK",
       "TARANTULA_SILK",
@@ -24903,7 +24988,7 @@
       "MELON_CHESTPLATE",
       "CROPIE:10",
       "BOX_OF_SEEDS:3",
-      "TIGHTLY_TIED_HAY_BALE",
+      "ENCHANTED_HAY_BALE:8",
       "BOX_OF_SEEDS:3",
       "ENCHANTED_BAKED_POTATO:15",
       "ENCHANTED_BAKED_POTATO:15",
@@ -26034,13 +26119,13 @@
   {
     "type": "craft",
     "ingredients": [
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK"
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8"
     ],
     "out": "FARM_SUIT_LEGGINGS"
   },
@@ -26441,11 +26526,11 @@
   {
     "type": "craft",
     "ingredients": [
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK",
-      "HAY_BLOCK"
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8",
+      "WHEAT:8"
     ],
     "out": "FARM_SUIT_HELMET"
   },
@@ -27966,6 +28051,17 @@
   {
     "type": "craft",
     "ingredients": [
+      "IRON_BLOCK:32",
+      "IRON_BLOCK:32",
+      "IRON_BLOCK:32",
+      "IRON_BLOCK:32",
+      "IRON_BLOCK:32"
+    ],
+    "out": "ENCHANTED_IRON:9"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "GOLD_INGOT",
       "GOLD_INGOT",
       "GOLD_INGOT",
@@ -27977,30 +28073,30 @@
   {
     "type": "craft",
     "ingredients": [
-      "HAY_BLOCK:24",
-      "HAY_BLOCK:24",
-      "HAY_BLOCK:24",
-      "HAY_BLOCK:24",
+      "ENCHANTED_WHEAT:2",
+      "ENCHANTED_WHEAT:2",
+      "ENCHANTED_WHEAT:2",
+      "ENCHANTED_WHEAT:2",
       "WHEAT_GENERATOR_5",
-      "HAY_BLOCK:24",
-      "HAY_BLOCK:24",
-      "HAY_BLOCK:24",
-      "HAY_BLOCK:24"
+      "ENCHANTED_WHEAT:2",
+      "ENCHANTED_WHEAT:2",
+      "ENCHANTED_WHEAT:2",
+      "ENCHANTED_WHEAT:2"
     ],
     "out": "WHEAT_GENERATOR_6"
   },
   {
     "type": "craft",
     "ingredients": [
-      "HAY_BLOCK:48",
-      "HAY_BLOCK:48",
-      "HAY_BLOCK:48",
-      "HAY_BLOCK:48",
+      "ENCHANTED_WHEAT:4",
+      "ENCHANTED_WHEAT:4",
+      "ENCHANTED_WHEAT:4",
+      "ENCHANTED_WHEAT:4",
       "WHEAT_GENERATOR_6",
-      "HAY_BLOCK:48",
-      "HAY_BLOCK:48",
-      "HAY_BLOCK:48",
-      "HAY_BLOCK:48"
+      "ENCHANTED_WHEAT:4",
+      "ENCHANTED_WHEAT:4",
+      "ENCHANTED_WHEAT:4",
+      "ENCHANTED_WHEAT:4"
     ],
     "out": "WHEAT_GENERATOR_7"
   },
@@ -28022,45 +28118,45 @@
   {
     "type": "craft",
     "ingredients": [
-      "HAY_BLOCK:12",
-      "HAY_BLOCK:12",
-      "HAY_BLOCK:12",
-      "HAY_BLOCK:12",
+      "ENCHANTED_WHEAT",
+      "ENCHANTED_WHEAT",
+      "ENCHANTED_WHEAT",
+      "ENCHANTED_WHEAT",
       "WHEAT_GENERATOR_4",
-      "HAY_BLOCK:12",
-      "HAY_BLOCK:12",
-      "HAY_BLOCK:12",
-      "HAY_BLOCK:12"
+      "ENCHANTED_WHEAT",
+      "ENCHANTED_WHEAT",
+      "ENCHANTED_WHEAT",
+      "ENCHANTED_WHEAT"
     ],
     "out": "WHEAT_GENERATOR_5"
   },
   {
     "type": "craft",
     "ingredients": [
-      "HAY_BLOCK:64",
-      "HAY_BLOCK:64",
-      "HAY_BLOCK:64",
-      "HAY_BLOCK:64",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
       "WHEAT_GENERATOR_7",
-      "HAY_BLOCK:64",
-      "HAY_BLOCK:64",
-      "HAY_BLOCK:64",
-      "HAY_BLOCK:64"
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8",
+      "ENCHANTED_WHEAT:8"
     ],
     "out": "WHEAT_GENERATOR_8"
   },
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
+      "ENCHANTED_WHEAT:16",
+      "ENCHANTED_WHEAT:16",
+      "ENCHANTED_WHEAT:16",
+      "ENCHANTED_WHEAT:16",
       "WHEAT_GENERATOR_8",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK",
-      "ENCHANTED_HAY_BLOCK"
+      "ENCHANTED_WHEAT:16",
+      "ENCHANTED_WHEAT:16",
+      "ENCHANTED_WHEAT:16",
+      "ENCHANTED_WHEAT:16"
     ],
     "out": "WHEAT_GENERATOR_9"
   },
@@ -28218,11 +28314,11 @@
   {
     "type": "craft",
     "ingredients": [
-      "MAGMA_FISH_GOLD:16",
-      "MAGMA_FISH_GOLD:16",
-      "MAGMA_FISH_GOLD:16",
-      "MAGMA_FISH_GOLD:16",
-      "MAGMA_FISH_GOLD:16"
+      "MAGMA_FISH_GOLD:4",
+      "MAGMA_FISH_GOLD:4",
+      "MAGMA_FISH_GOLD:4",
+      "MAGMA_FISH_GOLD:4",
+      "MAGMA_FISH_GOLD:4"
     ],
     "out": "MAGMA_FISH_DIAMOND"
   },
@@ -28461,15 +28557,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "ENCHANTED_HAY_BLOCK:2",
-      "ENCHANTED_HAY_BLOCK:2",
-      "ENCHANTED_HAY_BLOCK:2",
-      "ENCHANTED_HAY_BLOCK:2",
+      "ENCHANTED_WHEAT:16",
+      "ENCHANTED_WHEAT:16",
+      "ENCHANTED_WHEAT:16",
+      "ENCHANTED_WHEAT:16",
       "ENCHANTED_LEATHER",
-      "ENCHANTED_HAY_BLOCK:2",
-      "ENCHANTED_HAY_BLOCK:2",
-      "ENCHANTED_HAY_BLOCK:2",
-      "ENCHANTED_HAY_BLOCK:2"
+      "ENCHANTED_WHEAT:16",
+      "ENCHANTED_WHEAT:16",
+      "ENCHANTED_WHEAT:16",
+      "ENCHANTED_WHEAT:16"
     ],
     "out": "SMALL_AGRONOMY_SACK"
   },
@@ -28679,7 +28775,7 @@
     "type": "craft",
     "ingredients": [
       "CROPIE:10",
-      "TIGHTLY_TIED_HAY_BALE",
+      "ENCHANTED_HAY_BALE:8",
       "CROPIE:10",
       "BOX_OF_SEEDS:3",
       "MELON_LEGGINGS",
@@ -28816,6 +28912,17 @@
   {
     "type": "craft",
     "ingredients": [
+      "LAPIS_BLOCK:32",
+      "LAPIS_BLOCK:32",
+      "LAPIS_BLOCK:32",
+      "LAPIS_BLOCK:32",
+      "LAPIS_BLOCK:32"
+    ],
+    "out": "ENCHANTED_LAPIS_LAZULI:9"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "MELON",
       "MELON",
       "MELON",
@@ -28838,6 +28945,17 @@
       "REDSTONE:32"
     ],
     "out": "ENCHANTED_REDSTONE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "REDSTONE_BLOCK:32",
+      "REDSTONE_BLOCK:32",
+      "REDSTONE_BLOCK:32",
+      "REDSTONE_BLOCK:32",
+      "REDSTONE_BLOCK:32"
+    ],
+    "out": "ENCHANTED_REDSTONE:9"
   },
   {
     "type": "craft",
@@ -29061,9 +29179,9 @@
     "type": "craft",
     "ingredients": [
       "ENCHANTED_CLAY_BALL",
-      "HAY_BLOCK:32",
+      "ENCHANTED_WHEAT",
       "STRING",
-      "HAY_BLOCK:32",
+      "ENCHANTED_WHEAT",
       "STRING"
     ],
     "out": "FARMER_ROD"
@@ -29655,15 +29773,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "HAY_BLOCK",
+      "WHEAT:8",
       "SEEDS",
-      "HAY_BLOCK",
+      "WHEAT:8",
       "SEEDS",
-      "HAY_BLOCK",
+      "WHEAT:8",
       "SEEDS",
-      "HAY_BLOCK",
+      "WHEAT:8",
       "SEEDS",
-      "HAY_BLOCK"
+      "WHEAT:8"
     ],
     "out": "FARMING_TALISMAN"
   },
@@ -30427,7 +30545,7 @@
   },
   {
     "type": "forge",
-    "duration": 3600,
+    "duration": 14400,
     "ingredients": [
       "DRILL_ENGINE",
       "FUEL_TANK",
