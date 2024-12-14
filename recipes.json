@@ -2287,6 +2287,21 @@
   {
     "type": "craft",
     "ingredients": [
+      "YOUNGITE:16",
+      "TIMITE:16",
+      "YOUNGITE:16",
+      "OBSOLITE:16",
+      "HIGHLITE",
+      "OBSOLITE:16",
+      "YOUNGITE:16",
+      "TIMITE:16",
+      "YOUNGITE:16"
+    ],
+    "out": "SATELITE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "ENCHANTED_DIAMOND_BLOCK",
       "ENCHANTED_DIAMOND_BLOCK",
       "PERFECT_CHESTPLATE_3",
@@ -5427,6 +5442,21 @@
   {
     "type": "craft",
     "ingredients": [
+      "PUFF_CRUX:16",
+      "PUFF_CRUX:16",
+      "PUFF_CRUX:16",
+      "PUFF_CRUX:16",
+      "CRUX_TALISMAN_6",
+      "PUFF_CRUX:16",
+      "PUFF_CRUX:16",
+      "PUFF_CRUX:16",
+      "PUFF_CRUX:16"
+    ],
+    "out": "CRUX_TALISMAN_7"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "SPLATTER_CRUX:4",
       "SPLATTER_CRUX:4",
       "SPLATTER_CRUX:4",
@@ -5755,7 +5785,7 @@
   },
   {
     "type": "forge",
-    "duration": 1800,
+    "duration": 30,
     "ingredients": [
       "BEJEWELED_HANDLE",
       "ENCHANTED_UMBER:192"
@@ -6986,6 +7016,17 @@
     "out": "STARRED_ICE_SPRAY_WAND"
   },
   {
+    "type": "craft",
+    "ingredients": [
+      "UGLY_BOOTS_FRAGMENT",
+      "UGLY_BOOTS_FRAGMENT",
+      "SNAKE_IN_A_BOOT",
+      "UGLY_BOOTS_FRAGMENT",
+      "UGLY_BOOTS_FRAGMENT"
+    ],
+    "out": "UGLY_BOOTS"
+  },
+  {
     "type": "forge",
     "duration": 86400,
     "ingredients": [
@@ -7902,6 +7943,17 @@
   {
     "type": "craft",
     "ingredients": [
+      "YOUNGITE:8",
+      "ANTI_SENTIENT_PICKAXE",
+      "YOUNGITE:8",
+      "YOUNGITE:8",
+      "YOUNGITE:8"
+    ],
+    "out": "EON_PICKAXE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "COBBLESTONE:10",
       "COBBLESTONE:10",
       "COBBLESTONE:10",
@@ -8596,6 +8648,17 @@
       "HEMOGLASS:8"
     ],
     "out": "TRANSYLVANIAN;4"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "YOUNGITE:8",
+      "YOUNGITE:8",
+      "YOUNGITE:8",
+      "BERBERIS_BLOWGUN",
+      "YOUNGITE:8"
+    ],
+    "out": "TIME_GUN"
   },
   {
     "type": "craft",
@@ -9886,6 +9949,21 @@
   {
     "type": "craft",
     "ingredients": [
+      "CRUXMOTION",
+      "CRUXMOTION",
+      "CRUXMOTION",
+      "CRUXMOTION",
+      "STEAK_STAKE",
+      "CRUXMOTION",
+      "CRUXMOTION",
+      "CRUXMOTION",
+      "CRUXMOTION"
+    ],
+    "out": "SHARP_STEAK_STAKE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "SCARF_FRAGMENT",
       "SCARF_FRAGMENT",
       "SCARF_FRAGMENT",
@@ -10838,6 +10916,17 @@
       "SUGAR_CANE:64"
     ],
     "out": "ENCHANTED_PAPER"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "YOUNGITE:16",
+      "TIMITE:16",
+      "OBSOLITE:16",
+      "TIMITE:16",
+      "YOUNGITE:16"
+    ],
+    "out": "HIGHLITE"
   },
   {
     "type": "craft",
@@ -16687,6 +16776,21 @@
   {
     "type": "craft",
     "ingredients": [
+      "IQ_POINT",
+      "IQ_POINT",
+      "IQ_POINT",
+      "IQ_POINT",
+      "IQ_POINT",
+      "IQ_POINT",
+      "IQ_POINT",
+      "IQ_POINT",
+      "IQ_POINT"
+    ],
+    "out": "TWO_IQ_POINT"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "MAGMA_FISH_GOLD:2",
       "MAGMA_FISH_GOLD:2",
       "MAGMA_FISH_GOLD:2",
@@ -21171,6 +21275,21 @@
   {
     "type": "craft",
     "ingredients": [
+      "OBSOLITE:64",
+      "TIMITE:64",
+      "OBSOLITE:64",
+      "TIMITE:64",
+      "YOUNGITE:64",
+      "TIMITE:64",
+      "OBSOLITE:64",
+      "TIMITE:64",
+      "OBSOLITE:64"
+    ],
+    "out": "DISCRITE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "SOUL_STRING:32",
       "SOUL_STRING:32",
       "SOUL_STRING:32",
@@ -24048,15 +24167,15 @@
   {
     "type": "craft",
     "ingredients": [
-      "CRYSTAL_FRAGMENT:2",
+      "CRYSTAL_FRAGMENT:4",
       "SUMMONING_EYE",
-      "CRYSTAL_FRAGMENT:2",
+      "CRYSTAL_FRAGMENT:4",
       "SUMMONING_EYE",
       "SMALL_DRAGON_SACK",
       "SUMMONING_EYE",
-      "CRYSTAL_FRAGMENT:2",
+      "CRYSTAL_FRAGMENT:4",
       "SUMMONING_EYE",
-      "CRYSTAL_FRAGMENT:2"
+      "CRYSTAL_FRAGMENT:4"
     ],
     "out": "MEDIUM_DRAGON_SACK"
   },
@@ -24419,6 +24538,17 @@
       "STICK"
     ],
     "out": "END_BIOME_STICK"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "TIGHT_PANTS_FRAGMENT",
+      "TIGHT_PANTS_FRAGMENT",
+      "LEGGINGS_OF_THE_COVEN",
+      "TIGHT_PANTS_FRAGMENT",
+      "TIGHT_PANTS_FRAGMENT"
+    ],
+    "out": "WIZARDMAN_LEGGINGS"
   },
   {
     "type": "craft",
@@ -26375,6 +26505,17 @@
       "TARANTULA_WEB:32"
     ],
     "out": "TARANTULA_SILK"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "S_LOGO_FRAGMENT",
+      "S_LOGO_FRAGMENT",
+      "LIVELY_SEPULTURE_CHESTPLATE",
+      "S_LOGO_FRAGMENT",
+      "S_LOGO_FRAGMENT"
+    ],
+    "out": "S_LOGO_CHESTPLATE"
   },
   {
     "type": "craft",
@@ -29223,6 +29364,15 @@
   {
     "type": "craft",
     "ingredients": [
+      "SUPER_LEECH_MODIFIER",
+      "ASPECT_OF_THE_LEECH_2",
+      "SUPER_LEECH_MODIFIER"
+    ],
+    "out": "ASPECT_OF_THE_LEECH_3"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "INK_SACK-4",
       "WOOL"
     ],
@@ -29299,6 +29449,17 @@
       "MAGMA_LORD_FRAGMENT"
     ],
     "out": "MAGMA_LORD_HELMET"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_GOLD_BLOCK:32",
+      "HIGHLITE:32",
+      "ENCHANTED_REDSTONE_BLOCK:64",
+      "HIGHLITE:32",
+      "ENCHANTED_GOLD_BLOCK:32"
+    ],
+    "out": "ENCHANTED_TIME_CLOCK"
   },
   {
     "type": "craft",
@@ -29412,7 +29573,7 @@
   },
   {
     "type": "forge",
-    "duration": 1800,
+    "duration": 30,
     "ingredients": [
       "ENCHANTED_TUNGSTEN:192",
       "BEJEWELED_HANDLE"
@@ -29722,6 +29883,17 @@
       "ENCHANTED_COOKIE:16"
     ],
     "out": "REPLENISH;1"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "TIMITE:16",
+      "EON_PICKAXE",
+      "TIMITE:16",
+      "TIMITE:16",
+      "TIMITE:16"
+    ],
+    "out": "CHRONO_PICKAXE"
   },
   {
     "type": "craft",

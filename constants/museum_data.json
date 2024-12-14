@@ -1521,6 +1521,15 @@
       ]
     },
     {
+      "armor_id": "ELEANOR",
+      "items": [
+        "ELEANOR_TUNIC",
+        "ELEANOR_CAP",
+        "ELEANOR_TROUSERS",
+        "ELEANOR_SLIPPERS"
+      ]
+    },
+    {
       "armor_id": "CRIMSON",
       "items": [
         "CRIMSON_HELMET",
@@ -1932,8 +1941,10 @@
     "SNOW_GLOVES",
     "SNOW_BELT",
     "SNOW_NECKLACE",
+    "DETECTIVE_WALLET",
     "ZOOP_THE_FISH",
-    "DARK_PEBBLE"
+    "DARK_PEBBLE",
+    "FAMILY_DOUBLOON"
   ],
   "museum_rarity": [
     {
@@ -2656,6 +2667,9 @@
     },
     {
       "id": "RIFT_NECKLACE_OUTSIDE"
+    },
+    {
+      "id": "ENCHANTED_TIME_CLOCK"
     },
     {
       "id": "DRAGONFADE_CLOAK"
