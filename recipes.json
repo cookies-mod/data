@@ -4765,6 +4765,14 @@
   {
     "type": "craft",
     "ingredients": [
+      "CLAY_GENERATOR_11",
+      "GENERATOR_UPGRADE_STONE_CLAY_12"
+    ],
+    "out": "CLAY_GENERATOR_12"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "ENCHANTED_CLAY_BALL:64",
       "ENCHANTED_CLAY_BALL:64",
       "ENCHANTED_CLAY_BALL:64",
@@ -8037,7 +8045,7 @@
       "ENCHANTED_HUGE_MUSHROOM_1:64",
       "STUFFED_CHILI_PEPPER",
       "ENCHANTED_RABBIT_HIDE:8",
-      "VOLTA:8",
+      "PLASMA:4",
       "ENCHANTED_RABBIT_HIDE:8",
       "STUFFED_CHILI_PEPPER",
       "ENCHANTED_HUGE_MUSHROOM_1:64",
@@ -11381,6 +11389,14 @@
   {
     "type": "craft",
     "ingredients": [
+      "WIZARD_FACE",
+      "ANTI_BITE_SCARF_2"
+    ],
+    "out": "WARM_WIZARD_FACE_2"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "FLAWED_RUBY_GEM:16",
       "FLAWED_RUBY_GEM:16",
       "FLAWED_RUBY_GEM:16",
@@ -11674,6 +11690,14 @@
       "MITHRIL_BELT"
     ],
     "out": "TITANIUM_BELT"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "WIZARD_FACE",
+      "ANTI_BITE_SCARF"
+    ],
+    "out": "WARM_WIZARD_FACE"
   },
   {
     "type": "craft",
@@ -16747,6 +16771,21 @@
   {
     "type": "craft",
     "ingredients": [
+      "TOKEN_OF_THE_CENTURY",
+      "TOKEN_OF_THE_CENTURY",
+      "TOKEN_OF_THE_CENTURY",
+      "TOKEN_OF_THE_CENTURY",
+      "CENTURY_TALISMAN",
+      "TOKEN_OF_THE_CENTURY",
+      "TOKEN_OF_THE_CENTURY",
+      "TOKEN_OF_THE_CENTURY",
+      "TOKEN_OF_THE_CENTURY"
+    ],
+    "out": "CENTURY_RING"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "DIAMOND",
       "STICK",
       "STICK"
@@ -17615,6 +17654,14 @@
       "SYNTHETIC_HEART"
     ],
     "out": "PRECURSOR_APPARATUS"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
+      "FISHING_GENERATOR_11",
+      "GENERATOR_UPGRADE_STONE_FISHING_12"
+    ],
+    "out": "FISHING_GENERATOR_12"
   },
   {
     "type": "craft",
@@ -20055,6 +20102,21 @@
   {
     "type": "craft",
     "ingredients": [
+      "ENCHANTED_RED_SAND_CUBE",
+      "ENCHANTED_MYCELIUM_CUBE",
+      "ENCHANTED_RED_SAND_CUBE",
+      "ENCHANTED_MYCELIUM_CUBE",
+      "GAZING_PEARL:5",
+      "ENCHANTED_MYCELIUM_CUBE",
+      "ENCHANTED_RED_SAND_CUBE",
+      "ENCHANTED_MYCELIUM_CUBE",
+      "ENCHANTED_RED_SAND_CUBE"
+    ],
+    "out": "TERA_SHELL_NECKLACE"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "SNOW_BLOCK",
       "SNOW_BLOCK",
       "SNOW_BLOCK"
@@ -21042,7 +21104,7 @@
       "ENCHANTED_DIAMOND:32",
       "ENCHANTED_DIAMOND:32",
       "ENCHANTED_DIAMOND:32",
-      "ZOMBIE_CHESTPLATE",
+      "REVENANT_VISCERA",
       "ENCHANTED_DIAMOND:32",
       "REVENANT_VISCERA",
       "REVENANT_VISCERA",
@@ -27124,6 +27186,17 @@
   {
     "type": "craft",
     "ingredients": [
+      "RAW_FISH:5",
+      "INK_SACK",
+      "GOLD_INGOT:9",
+      "RAW_FISH-1",
+      "PRISMARINE_CRYSTALS:3"
+    ],
+    "out": "WHALE_BAIT"
+  },
+  {
+    "type": "craft",
+    "ingredients": [
       "RAW_BEEF",
       "RAW_BEEF",
       "RAW_BEEF",
@@ -28625,6 +28698,17 @@
     "out": "IRON_CHESTPLATE"
   },
   {
+    "type": "craft",
+    "ingredients": [
+      "ENCHANTED_CLAY_BALL:32",
+      "ENCHANTED_CLAY_BALL:32",
+      "ENCHANTED_CLAY_BALL:32",
+      "ENCHANTED_CLAY_BALL:32",
+      "ENCHANTED_CLAY_BALL:32"
+    ],
+    "out": "ENCHANTED_CLAY_BLOCK"
+  },
+  {
     "type": "forge",
     "duration": 72000,
     "ingredients": [
@@ -29836,7 +29920,7 @@
       "ENCHANTED_MITHRIL:16",
       "ENCHANTED_MITHRIL:16",
       "ENCHANTED_MITHRIL:16",
-      "SUPER_EGG",
+      "ENCHANTED_EGG",
       "ENCHANTED_MITHRIL:16",
       "ENCHANTED_MITHRIL:16",
       "ENCHANTED_MITHRIL:16",

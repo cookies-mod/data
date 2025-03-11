@@ -1644,19 +1644,24 @@
     "EPOCH_CAKE_AQUA",
     "EPOCH_CAKE_GREEN",
     "EPOCH_CAKE_BLACK",
+    "EPOCH_CAKE_MAGENTA",
     "EPOCH_CAKE_GRAY",
     "EPOCH_CAKE_PURPLE",
     "EPOCH_CAKE_PINK",
     "EPOCH_CAKE_CYAN",
     "EPOCH_CAKE_ORANGE",
+    "EPOCH_CAKE_SILVER",
     "EPOCH_CAKE_RED",
     "EPOCH_CAKE_BLUE",
     "EPOCH_CAKE_YELLOW",
     "EPOCH_CAKE_WHITE",
     "EPOCH_CAKE_BROWN",
     "EPOCH_CAKE_DARK_GREEN",
+    "LOUDMOUTH_BASS",
     "ASPECT_OF_THE_JERRY_SIGNATURE",
+    "PAINT_CARTRIDGE",
     "CENTURY_THE_FISH",
+    "SKELETON_THE_FISH",
     "RABBIT_THE_FISH",
     "GREAT_SPOOK_NECKLACE",
     "GREAT_SPOOK_LEGGINGS",
@@ -1838,6 +1843,7 @@
     "PET_SKIN_ELEPHANT_RED",
     "PUMPKIN_PERSONALITY",
     "GIANT_FISHING_ROD",
+    "SEAL_PERSONALITY",
     "DIVAN_ALLOY",
     "ARMOR_OF_MAGMA_LEGGINGS",
     "FARMING_FOR_DUMMIES",
@@ -2315,6 +2321,9 @@
       "id": "SCOURGE_CLOAK"
     },
     {
+      "id": "TERA_SHELL_NECKLACE"
+    },
+    {
       "id": "GOLD_SADAN_HEAD",
       "parent": "DIAMOND_SADAN_HEAD"
     },
@@ -2427,7 +2436,10 @@
       "id": "RABBIT_HAT"
     },
     {
-      "id": "PUFFERFISH_HAT"
+      "id": "PUFFERFISH_HAT",
+      "mapped_item_ids": [
+        "PUFFERFISH_HAT_CELEBRATION"
+      ]
     },
     {
       "id": "DOJO_BLUE_BELT",
@@ -2442,6 +2454,9 @@
     },
     {
       "id": "MENDER_CROWN"
+    },
+    {
+      "id": "FROZEN_AMULET"
     },
     {
       "id": "DIAMOND_PROFESSOR_HEAD"
@@ -2625,6 +2640,9 @@
       "parent": "SKYMART_HYPER_VACUUM"
     },
     {
+      "id": "PESTHUNTERS_BELT"
+    },
+    {
       "id": "PUMPKIN_DICER_2",
       "parent": "PUMPKIN_DICER_3"
     },
@@ -2638,11 +2656,20 @@
       "id": "SPRAYONATOR"
     },
     {
+      "id": "SQUEAKY_MOUSEMAT"
+    },
+    {
       "id": "PUMPKIN_DICER_3"
     },
     {
       "id": "MELON_DICER_2",
       "parent": "MELON_DICER_3"
+    },
+    {
+      "id": "PESTHUNTERS_NECKLACE"
+    },
+    {
+      "id": "PESTHUNTERS_CLOAK"
     },
     {
       "id": "BASIC_GARDENING_HOE",
